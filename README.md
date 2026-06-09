@@ -1,2 +1,2 @@
-# Genome assembly and phylogeny in the genus *Philolema*
+# Genome assembly and phylogenetics in the genus *Philolema*
 
