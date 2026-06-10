@@ -1,0 +1,199 @@
+---
+title: "2. Analysis of WGS data from museum specimens"
+author: "Rilquer Mascarenhas"
+format: html
+editor: visual
+---
+
+## Intro
+
+```{r eval=FALSE,message=FALSE}
+require(tidyverse)
+```
+
+Reading metadata:
+
+```{r eval=FALSE,message=FALSE}
+wgs_metadata <- read_csv('data/metadata/york_master_samplesheet.csv') %>% filter(wgs=='yes')
+```
+
+## Alignment stats
+
+```{r eval=FALSE,message=FALSE}
+samples <- list.files('data/wgs/cov_stats/samples_cov/',pattern = '1.q20.cov') %>% 
+    str_split_i(pattern = '\\.',i = 1) %>%
+    # Adding outgroup samples
+    append(c('SRR37165114','SRR37165121','SRR37165125','SRR37165136'))
+
+cov <- lapply(1:length(samples),function(i){
+  cov <- read_tsv(paste0('data/wgs/cov_stats/samples_cov//',samples[i],'.q20.cov'))%>% 
+    mutate(sample = samples[i]) %>%
+    rename(contig = '#rname',length = 'endpos') %>%
+    select(-startpos)
+  return(cov)
+}) %>% bind_rows() %>% 
+  # Adding metadata
+  left_join(wgs_metadata %>% select(code,binomial,locality,region1,region2),
+            by = c(sample = 'code'))
+
+# Average depth per sample
+cov %>% group_by(sample) %>%
+  summarize(mean_depth = mean(meandepth),
+            median_depth = median(meandepth),
+            max_depth = max(meandepth),
+            min_depth = min(meandepth)) %>%
+  # Adding metadata
+  left_join(wgs_metadata %>% select(code,binomial,locality,region1,region2),
+            by = c(sample = 'code')) %>% 
+  write_csv('data/wgs/cov_stats/graph_avg_depth_per_sample.csv')
+
+# Average depth per contig
+cov %>% group_by(contig) %>%
+  summarize(mean_depth = mean(meandepth),
+            median_depth = median(meandepth),
+            max_depth = max(meandepth),
+            min_depth = min(meandepth)) %>% 
+  write_csv('data/wgs/cov_stats/graph_avg_depth_per_contig.csv')
+```
+
+Plots
+
+```{r eval=FALSE,message=FALSE}
+# Mean Depth
+ggplot(data=cov,aes(x=contig,y=locality,fill=meandepth))+
+  geom_tile()+
+  scale_fill_gradient2(name = 'Mean Depth',
+                       low = '#2b83ba', mid = '#fffebd', high = '#d7191c',
+                       midpoint = median(cov$meandepth))+
+  theme_classic()+
+  theme(panel.spacing.y = unit(0, "mm"),
+        strip.text.y.left = element_text(angle = 0,face='italic'),
+        strip.background = element_rect(fill = "gray90", color = "white",
+                                        linewidth = 1.5),
+        strip.placement = "outside",
+        axis.text.x = element_text(angle=90,vjust=0.5,hjust=1,size=8))+
+  facet_grid(binomial~., scales = "free_y", space = "free_y", switch = "y") +
+  ggtitle('Graph Reference Alignment - Depth',subtitle = paste0('Mean: ',mean(cov$meandepth),'; Median: ',median(cov$meandepth)))
+ggsave('data/wgs/cov_stats/figures/graph_mean_depth.png',width = 13, height = 6,dpi = 800)
+
+# Coverage
+ggplot(data=cov,aes(x=contig,y=locality,fill=coverage))+
+  geom_tile()+
+  scale_fill_gradient2(name = '% Coverage',
+                       low = '#2b83ba', mid = '#fffebd', high = '#d7191c',
+                       midpoint = 50)+
+  theme_classic()+
+  theme(panel.spacing.y = unit(0, "mm"),
+        strip.text.y.left = element_text(angle = 0,face='italic'),
+        strip.background = element_rect(fill = "gray90", color = "white",
+                                        linewidth = 1.5),
+        strip.placement = "outside",
+        axis.text.x = element_text(angle=90,vjust=0.5,hjust=1,size=8))+
+  facet_grid(binomial~., scales = "free_y", space = "free_y", switch = "y") +
+  ggtitle('Graph Reference Alignment - Coverage',subtitle = paste0('Mean: ',mean(cov$coverage),'; Median: ',median(cov$coverage)))
+ggsave('data/wgs/cov_stats/figures/graph_mean_coverage.png',width = 13, height = 6,dpi = 800)
+
+# MapQ
+ggplot(data=cov,aes(x=contig,y=locality,fill=meanmapq))+
+  geom_tile()+
+  scale_fill_gradient2(name = 'Mean MapQ',
+                       low = '#2b83ba', mid = '#fffebd', high = '#d7191c',
+                       midpoint = max(cov$meanmapq)/2)+
+  theme_classic()+
+  theme(panel.spacing.y = unit(0, "mm"),
+        strip.text.y.left = element_text(angle = 0,face='italic'),
+        strip.background = element_rect(fill = "gray90", color = "white",
+                                        linewidth = 1.5),
+        strip.placement = "outside",
+        axis.text.x = element_text(angle=90,vjust=0.5,hjust=1,size=8))+
+  facet_grid(binomial~., scales = "free_y", space = "free_y", switch = "y") +
+  ggtitle('Graph Reference Alignment - Mapping quality',subtitle = paste0('Mean: ',mean(cov$meanmapq),'; Median: ',median(cov$meanmapq)))
+ggsave('data/wgs/cov_stats/figures/graph_mean_mapq.png',width = 13, height = 6,dpi = 800)
+```
+
+## Phylogenetic tree
+
+```{r eval=FALSE,message=FALSE}
+require(ggtree)
+tree <- read.tree('data/wgs/iqtree/plat_vg_nuDNA_filtered.min14.phy.varsites.phy.contree')
+
+# Format tip labels
+# Changing to metadata binomial + original_code
+tree$tip.label <- tree$tip.label %>% as_tibble() %>% rename(code='value') %>% 
+  mutate(code = str_replace(code,'\\.q20.rmd.bam','')) %>%
+  left_join(wgs_metadata %>% select(code,original_code,binomial)) %>% 
+  unite(col = new_label,binomial,original_code,sep=' ') %>%
+  mutate(new_label = str_replace_all(new_label,' NA','')) %>% # Removing NA from outgroup
+  select(new_label) %>% unlist() %>% as.character()
+
+# Rooting tree with Bruchophagus gibbus
+tree <- ape::root(tree,outgroup = 'Bruchophagus gibbus')
+```
+
+Ultrametric:
+
+```{r eval=FALSE,message=FALSE}
+# Plotting
+ggtree(tree, branch.length="none")+
+  geom_nodelab(hjust = -0.2,size=2)+ # Adding support
+  geom_nodepoint()+
+  # Highlighting clades
+  geom_hilight(node=34, fill="#1f78b4",alpha=.5) + 
+  geom_hilight(node=40, fill="#a6cee3",alpha=.5)+
+  geom_hilight(node=30, fill="#b2df8a",alpha=.5)+
+  geom_hilight(node=27, fill="#7570b3",alpha=.5)+
+  # Adding clade label
+  geom_cladelabel(node=34,
+                  label="San Juan, Panama and Arizona (USA)",
+                  offset=9, align=TRUE)+
+  geom_cladelabel(node=40,
+                  label="San Juan, Panama and Hawaii (USA)", 
+                  offset=9, align=TRUE) +
+  geom_cladelabel(node=30,
+                  label="Phillipines", 
+                  offset=9, align=TRUE) + 
+  geom_cladelabel(node=46,
+                  label="Israel", 
+                  offset=9, align=TRUE) + 
+  geom_cladelabel(node=26,
+                  label="South Africa", 
+                  offset=9, align=TRUE) + 
+  geom_tiplab()+
+  theme_tree2() + 
+  xlim(0, 30) + 
+  theme_tree()
+```
+
+With branch length:
+
+```{r eval=FALSE,message=FALSE}
+# Plotting
+ggtree(tree)+
+  geom_nodelab(hjust = -0.2,size=2)+ # Adding support
+  geom_nodepoint()+
+  # Highlighting clades
+  geom_hilight(node=34, fill="#1f78b4",alpha=.5) + 
+  geom_hilight(node=40, fill="#a6cee3",alpha=.5)+
+  geom_hilight(node=30, fill="#b2df8a",alpha=.5)+
+  geom_hilight(node=27, fill="#7570b3",alpha=.5)+
+  # Adding clade label
+  geom_cladelabel(node=34,
+                  label="San Juan, Panama and Arizona (USA)",
+                  offset=9, align=TRUE)+
+  geom_cladelabel(node=40,
+                  label="San Juan, Panama and Hawaii (USA)", 
+                  offset=9, align=TRUE) +
+  geom_cladelabel(node=30,
+                  label="Phillipines", 
+                  offset=9, align=TRUE) + 
+  geom_cladelabel(node=46,
+                  label="Israel", 
+                  offset=9, align=TRUE) + 
+  geom_cladelabel(node=26,
+                  label="South Africa", 
+                  offset=9, align=TRUE) + 
+  geom_tiplab()+
+  theme_tree2() + 
+  xlim(0, 30) + 
+  theme_tree()
+```

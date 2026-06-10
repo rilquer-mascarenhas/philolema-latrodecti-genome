@@ -1,0 +1,223 @@
+IQ-TREE 3.0.1 built Jul  9 2025
+
+Input file name: plat_vg_nuDNA_filtered.min14.phy.varsites.phy
+Type of analysis: tree reconstruction + ultrafast bootstrap (1000 replicates)
+Random seed number: 52572
+
+REFERENCES
+----------
+
+To cite IQ-TREE 3 please use:
+
+Thomas K.F. Wong, Nhan Ly-Trong, Huaiyan Ren, Hector Banos, Andrew J. Roger,
+Edward Susko, Chris Bielow, Nicola De Maio, Nick Goldman, Matthew W. Hahn,
+Gavin Huttley, Robert Lanfear, Bui Quang Minh (2025)
+IQ-TREE 3: Phylogenomic Inference Software using Complex Evolutionary Models.
+Submitted.
+
+Please also cite the following paper(s) for the feature(s) that you used:
+
+Since you used ultrafast bootstrap (UFBoot) please also cite: 
+
+Diep Thi Hoang, Olga Chernomor, Arndt von Haeseler, Bui Quang Minh,
+and Le Sy Vinh (2018) UFBoot2: Improving the ultrafast bootstrap
+approximation. Mol. Biol. Evol., 35:518–522.
+https://doi.org/10.1093/molbev/msx281
+
+SEQUENCE ALIGNMENT
+------------------
+
+Input data: 24 sequences with 470107 nucleotide sites
+Number of constant sites: 0 (= 0% of all sites)
+Number of invariant (constant or ambiguous constant) sites: 0 (= 0% of all sites)
+Number of parsimony informative sites: 429849
+Number of distinct site patterns: 386574
+
+SUBSTITUTION PROCESS
+--------------------
+
+Model of substitution: GTR+F+ASC
+
+Rate parameter R:
+
+  A-C: 1.0024
+  A-G: 6.7880
+  A-T: 1.1522
+  C-G: 1.0264
+  C-T: 6.7959
+  G-T: 1.0000
+
+State frequencies: (empirical counts from alignment)
+
+  pi(A) = 0.2485
+  pi(C) = 0.2521
+  pi(G) = 0.2509
+  pi(T) = 0.2485
+
+Rate matrix Q:
+
+  A     -1.01    0.1138     0.767     0.129
+  C    0.1122   -0.9888     0.116    0.7606
+  G    0.7598    0.1165   -0.9883    0.1119
+  T     0.129    0.7716     0.113    -1.014
+
+Model of rate heterogeneity: Uniform
+
+MAXIMUM LIKELIHOOD TREE
+-----------------------
+
+Log-likelihood of the tree: -1825197.5158 (s.e. 1010.9251)
+Unconstrained log-likelihood (without tree): -5972202.0207
+Number of free parameters (#branches + #model parameters): 53
+Akaike information criterion (AIC) score: 3650501.0315
+Corrected Akaike information criterion (AICc) score: 3650501.0437
+Bayesian information criterion (BIC) score: 3651087.2495
+
+Total tree length (sum of branch lengths): 0.2812
+Sum of internal branch lengths: 0.2777 (98.7339% of tree length)
+
+WARNING: 12 near-zero internal branches (<0.0000) should be treated with caution
+         Such branches are denoted by '**' in the figure below
+
+NOTE: Tree is UNROOTED although outgroup taxon 'MuseoWasp1_501_L1_1.q20.rmd.bam' is drawn at root
+Numbers in parentheses are  ultrafast bootstrap support (%)
+
++--MuseoWasp1_501_L1_1.q20.rmd.bam
+|
++--MuseoWasp1_502_L1_1.q20.rmd.bam
+|
+|                                         +**MuseoWasp1_503_L1_1.q20.rmd.bam
+|                                      +**| (100)
+|                                      |  +**MuseoWasp2_505_L1_1.q20.rmd.bam
+|                                   +--| (100)
+|                                   |  +**MuseoWasp2_504_L1_1.q20.rmd.bam
+|              +--------------------| (100)
+|              |                    |        +--MuseoWasp2_502_L1_1.q20.rmd.bam
+|              |                    |     +**| (0)
+|              |                    |     |  +**MuseoWasp2_506_L1_1.q20.rmd.bam
+|              |                    |  +**| (0)
+|              |                    |  |  |                 +**MuseoWasp2_509_L1_1.q20.rmd.bam
+|              |                    |  |  |              +**| (100)
+|              |                    |  |  |              |  +**MuseoWasp4_508_L1_1.q20.rmd.bam
+|              |                    |  |  |           +**| (100)
+|              |                    |  |  |           |  +**MuseoWasp3_503_L1_1.q20.rmd.bam
+|              |                    |  |  |        +**| (83)
+|              |                    |  |  |        |  +**MuseoWasp3_505_L1_1.q20.rmd.bam
+|              |                    |  |  |     +**| (0)
+|              |                    |  |  |     |  |     +**MuseoWasp3_501_L1_1.q20.rmd.bam
+|              |                    |  |  |     |  |  +**| (18)
+|              |                    |  |  |     |  |  |  |  +**MuseoWasp3_504_L1_1.q20.rmd.bam
+|              |                    |  |  |     |  |  |  +**| (89)
+|              |                    |  |  |     |  |  |     +**MuseoWasp4_510_L1_1.q20.rmd.bam
+|              |                    |  |  |     |  +**| (97)
+|              |                    |  |  |     |     +**MuseoWasp4_502_L1_1.q20.rmd.bam
+|              |                    |  |  |  +**| (0)
+|              |                    |  |  |  |  +**MuseoWasp4_509_L1_1.q20.rmd.bam
+|              |                    |  |  +**| (0)
+|              |                    |  |     +**MuseoWasp3_507_L1_1.q20.rmd.bam
+|              |                    +--| (100)
+|              |                       +**MuseoWasp4_501_L1_1.q20.rmd.bam
+|  +-----------| (100)
+|  |           |                                            +--SRR37165114.q20.rmd.bam
+|  |           |                                         +--| (100)
+|  |           |                                         |  +--SRR37165125.q20.rmd.bam
+|  |           |                +------------------------| (100)
+|  |           |                |                        +--SRR37165136.q20.rmd.bam
+|  |           +----------------| (100)
+|  |                            +**SRR37165121.q20.rmd.bam
++--| (100)
+   |  +--MuseoWasp1_506_L1_1.q20.rmd.bam
+   +--| (100)
+      +--MuseoWasp1_507_L1_1.q20.rmd.bam
+
+Tree in newick format:
+
+(MuseoWasp1_501_L1_1.q20.rmd.bam:0.0000121674,MuseoWasp1_502_L1_1.q20.rmd.bam:0.0000074053,(((((MuseoWasp1_503_L1_1.q20.rmd.bam:0.0000002127,MuseoWasp2_505_L1_1.q20.rmd.bam:0.0000002127)100:0.0000002127,MuseoWasp2_504_L1_1.q20.rmd.bam:0.0000002127)100:0.0001466767,(((MuseoWasp2_502_L1_1.q20.rmd.bam:0.0000071674,MuseoWasp2_506_L1_1.q20.rmd.bam:0.0000002127)0:0.0000002127,((((((MuseoWasp2_509_L1_1.q20.rmd.bam:0.0000002127,MuseoWasp4_508_L1_1.q20.rmd.bam:0.0000002127)100:0.0000002127,MuseoWasp3_503_L1_1.q20.rmd.bam:0.0000002127)100:0.0000002127,MuseoWasp3_505_L1_1.q20.rmd.bam:0.0000002127)83:0.0000008124,((MuseoWasp3_501_L1_1.q20.rmd.bam:0.0000002127,(MuseoWasp3_504_L1_1.q20.rmd.bam:0.0000002127,MuseoWasp4_510_L1_1.q20.rmd.bam:0.0000002245)89:0.0000007768)18:0.0000004268,MuseoWasp4_502_L1_1.q20.rmd.bam:0.0000002127)97:0.0000004441)0:0.0000002127,MuseoWasp4_509_L1_1.q20.rmd.bam:0.0000002127)0:0.0000002127,MuseoWasp3_507_L1_1.q20.rmd.bam:0.0000002127)0:0.0000004792)0:0.0000002127,MuseoWasp4_501_L1_1.q20.rmd.bam:0.0000002127)100:0.0001398506)100:0.0714232416,(((SRR37165114.q20.rmd.bam:0.0008871722,SRR37165125.q20.rmd.bam:0.0008147962)100:0.0047181193,SRR37165136.q20.rmd.bam:0.0016597572)100:0.0848559812,SRR37165121.q20.rmd.bam:0.0000005220)100:0.0567936008)100:0.0414106955,(MuseoWasp1_506_L1_1.q20.rmd.bam:0.0000051546,MuseoWasp1_507_L1_1.q20.rmd.bam:0.0000134875)100:0.0077054276)100:0.0106277083);
+
+CONSENSUS TREE
+--------------
+
+Consensus tree is constructed from 1000 bootstrap trees
+Log-likelihood of consensus tree: -1825204.59644153
+Robinson-Foulds distance between ML tree and consensus tree: 12
+
+Branches with support >0.00000000% are kept (extended consensus)
+Branch lengths are optimized by maximum likelihood on original alignment
+Numbers in parentheses are bootstrap supports (%)
+
++--MuseoWasp1_501_L1_1.q20.rmd.bam
+|
++--MuseoWasp1_502_L1_1.q20.rmd.bam
+|
+|                                         +**MuseoWasp1_503_L1_1.q20.rmd.bam
+|                                      +**| (100)
+|                                      |  +**MuseoWasp2_505_L1_1.q20.rmd.bam
+|                                   +--| (100)
+|                                   |  +**MuseoWasp2_504_L1_1.q20.rmd.bam
+|              +--------------------| (100)
+|              |                    |              +--MuseoWasp2_502_L1_1.q20.rmd.bam
+|              |                    |           +**| (98)
+|              |                    |           |  |  +**MuseoWasp3_501_L1_1.q20.rmd.bam
+|              |                    |           |  +**| (97)
+|              |                    |           |     |     +**MuseoWasp3_504_L1_1.q20.rmd.bam
+|              |                    |           |     |  +**| (89)
+|              |                    |           |     |  |  +**MuseoWasp4_510_L1_1.q20.rmd.bam
+|              |                    |           |     +**| (81)
+|              |                    |           |        +**MuseoWasp4_502_L1_1.q20.rmd.bam
+|              |                    |        +**| (96)
+|              |                    |        |  +**MuseoWasp4_509_L1_1.q20.rmd.bam
+|              |                    |     +**| (82)
+|              |                    |     |  +**MuseoWasp3_507_L1_1.q20.rmd.bam
+|              |                    |  +**| (90)
+|              |                    |  |  |           +**MuseoWasp2_509_L1_1.q20.rmd.bam
+|              |                    |  |  |        +**| (100)
+|              |                    |  |  |        |  +**MuseoWasp4_508_L1_1.q20.rmd.bam
+|              |                    |  |  |     +**| (100)
+|              |                    |  |  |     |  +**MuseoWasp3_503_L1_1.q20.rmd.bam
+|              |                    |  |  |  +**| (83)
+|              |                    |  |  |  |  +**MuseoWasp3_505_L1_1.q20.rmd.bam
+|              |                    |  |  +**| (85)
+|              |                    |  |     +**MuseoWasp4_501_L1_1.q20.rmd.bam
+|              |                    +--| (100)
+|              |                       +**MuseoWasp2_506_L1_1.q20.rmd.bam
+|  +-----------| (100)
+|  |           |                                            +--SRR37165114.q20.rmd.bam
+|  |           |                                         +--| (100)
+|  |           |                                         |  +--SRR37165125.q20.rmd.bam
+|  |           |                +------------------------| (100)
+|  |           |                |                        +--SRR37165136.q20.rmd.bam
+|  |           +----------------| (100)
+|  |                            +**SRR37165121.q20.rmd.bam
++--| (100)
+   |  +--MuseoWasp1_506_L1_1.q20.rmd.bam
+   +--| (100)
+      +--MuseoWasp1_507_L1_1.q20.rmd.bam
+
+
+Consensus tree in newick format: 
+
+(MuseoWasp1_501_L1_1.q20.rmd.bam:0.0000121581,MuseoWasp1_502_L1_1.q20.rmd.bam:0.0000073911,(((((MuseoWasp1_503_L1_1.q20.rmd.bam:0.0000004529,MuseoWasp2_505_L1_1.q20.rmd.bam:0.0000004770)100:0.0000004398,MuseoWasp2_504_L1_1.q20.rmd.bam:0.0000005983)100:0.0001465772,(((((MuseoWasp2_502_L1_1.q20.rmd.bam:0.0000069434,(MuseoWasp3_501_L1_1.q20.rmd.bam:0.0000004520,((MuseoWasp3_504_L1_1.q20.rmd.bam:0.0000004653,MuseoWasp4_510_L1_1.q20.rmd.bam:0.0000004554)89:0.0000009876,MuseoWasp4_502_L1_1.q20.rmd.bam:0.0000004520)81:0.0000002183)97:0.0000003462)98:0.0000004753,MuseoWasp4_509_L1_1.q20.rmd.bam:0.0000004520)96:0.0000004753,MuseoWasp3_507_L1_1.q20.rmd.bam:0.0000004520)82:0.0000004753,((((MuseoWasp2_509_L1_1.q20.rmd.bam:0.0000004520,MuseoWasp4_508_L1_1.q20.rmd.bam:0.0000004520)100:0.0000004653,MuseoWasp3_503_L1_1.q20.rmd.bam:0.0000004520)100:0.0000006603,MuseoWasp3_505_L1_1.q20.rmd.bam:0.0000004520)83:0.0000002944,MuseoWasp4_501_L1_1.q20.rmd.bam:0.0000004520)85:0.0000002566)90:0.0000004928,MuseoWasp2_506_L1_1.q20.rmd.bam:0.0000004520)100:0.0001398177)100:0.0714457483,(((SRR37165114.q20.rmd.bam:0.0008874174,SRR37165125.q20.rmd.bam:0.0008150661)100:0.0047195365,SRR37165136.q20.rmd.bam:0.0016602787)100:0.0848832069,SRR37165121.q20.rmd.bam:0.0000005326)100:0.0568111896)100:0.0414229579,(MuseoWasp1_506_L1_1.q20.rmd.bam:0.0000050942,MuseoWasp1_507_L1_1.q20.rmd.bam:0.0000136223)100:0.0077075565)100:0.0106308160);
+
+ALISIM COMMAND
+--------------
+To simulate an alignment of the same length as the original alignment, using the tree and model parameters estimated from this analysis, you can use the following command:
+
+--alisim simulated_MSA -t plat_vg_nuDNA_filtered.min14.phy.varsites.phy.treefile -m "GTR{1.00238,6.788,1.15224,1.02643,6.79595}+F{0.248536,0.252088,0.25088,0.248496}+ASC" --length 470107
+
+To mimic the alignment used to produce this analysis, i.e. simulate an alignment of the same length as the original alignment, using the tree and model parameters estimated from this analysis *and* copying the same gap positions as the original alignment, you can use the following command:
+
+iqtree -s plat_vg_nuDNA_filtered.min14.phy.varsites.phy --alisim mimicked_MSA
+
+To simulate any number of alignments in either of the two commandlines above, use the --num-alignments options, for example mimic 100 alignments you would use the command line:
+
+iqtree -s plat_vg_nuDNA_filtered.min14.phy.varsites.phy --alisim mimicked_MSA --num-alignments 100
+
+For more information on using AliSim, please visit: www.iqtree.org/doc/AliSim
+
+TIME STAMP
+----------
+
+Date and time: Tue Jun  9 02:25:06 2026
+Total CPU time used: 5598.123312 seconds (1h:33m:18s)
+Total wall-clock time used: 5684.796378 seconds (1h:34m:44s)
+

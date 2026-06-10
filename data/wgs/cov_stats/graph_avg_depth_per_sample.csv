@@ -1,0 +1,25 @@
+sample,mean_depth,median_depth,max_depth,min_depth,binomial,locality,region1,region2
+MuseoWasp1_501_L1_1,2.810230546491803,1.73376,7.23796,0,Philolema arnoldi,Bloemfontein,Central South Africa,South Africa
+MuseoWasp1_502_L1_1,2.962976301590164,1.85589,7.66171,0,Philolema arnoldi,Bloemfontein,Central South Africa,South Africa
+MuseoWasp1_503_L1_1,3.574006216672131,4.03301,7.28518,0,Philolema sp.,Pampanga,Luzon,Philippines
+MuseoWasp1_506_L1_1,1.7947401204918032,1.13788,4.48417,0,Philolema latrodecti,Beer Sheva,Israel,Israel
+MuseoWasp1_507_L1_1,4.600023045081967,2.70628,11.8931,0,Philolema latrodecti,Beer Sheva,Israel,Israel
+MuseoWasp2_502_L1_1,5.07780001595082,6.16436,9.79074,0,Philolema latrodecti,Pima County,Arizona,Southwestern US
+MuseoWasp2_504_L1_1,9.202229045688524,10.3275,18.672,0,Philolema sp.,Pampanga,Luzon,Philippines
+MuseoWasp2_505_L1_1,5.761701012311476,6.47722,11.9419,0,Philolema sp.,Pampanga,Luzon,Philippines
+MuseoWasp2_506_L1_1,1.8228391905245902,2.19562,3.57475,0,Eurytoma arachnovora,Panama,Panama,Panama
+MuseoWasp2_509_L1_1,1.613448687147541,2.02225,3.05297,0,Philolema latrodecti,Honolulu,Hawaii,Hawaii
+MuseoWasp3_501_L1_1,1.219942303114754,1.55172,2.28243,0,Eurytoma arachnovora,San Juan,Puerto Rico,Puerto Rico
+MuseoWasp3_503_L1_1,3.7372652376885247,4.75917,6.85237,0,Philolema latrodecti,Honolulu,Hawaii,Hawaii
+MuseoWasp3_504_L1_1,1.0132272963934426,1.21139,1.9755,0,Eurytoma arachnovora,San Juan,Puerto Rico,Puerto Rico
+MuseoWasp3_505_L1_1,3.004624035098361,3.54654,6.0519,0,Philolema latrodecti,Honolulu,Hawaii,Hawaii
+MuseoWasp3_507_L1_1,2.6438394263934426,3.11419,5.35036,0,Eurytoma arachnovora,Panama,Panama,Panama
+MuseoWasp4_501_L1_1,0.14749805213114753,0.146308,0.326366,0,Eurytoma arachnovora,San Juan,Puerto Rico,Puerto Rico
+MuseoWasp4_502_L1_1,0.8572429263442622,0.89085,1.92285,0,Eurytoma arachnovora,Panama,Panama,Panama
+MuseoWasp4_508_L1_1,2.101090290934426,2.60149,3.95564,0,Eurytoma arachnovora,Panama,Panama,Panama
+MuseoWasp4_509_L1_1,2.1514113589016395,2.51981,4.414,0,Eurytoma arachnovora,Panama,Panama,Panama
+MuseoWasp4_510_L1_1,0.377729270704918,0.415742,0.798018,0,Eurytoma arachnovora,San Juan,Puerto Rico,Puerto Rico
+SRR37165114,0.6256133929016393,0.31311,2.05327,0,Bruchophagus gueldenstaedtiae,Bruchophagus gueldenstaedtiae,Bruchophagus gueldenstaedtiae,Bruchophagus gueldenstaedtiae
+SRR37165121,0.892826463442623,0.329831,2.80238,0,Philolema nr. braconidis,Philolema nr. braconidis,Philolema nr. braconidis,Philolema nr. braconidis
+SRR37165125,0.576487727147541,0.38312,1.67413,0,Bruchophagus robiniae,Bruchophagus robiniae,Bruchophagus robiniae,Bruchophagus robiniae
+SRR37165136,0.8051737427868852,0.426667,2.57374,0,Bruchophagus gibbus,Bruchophagus gibbus,Bruchophagus gibbus,Bruchophagus gibbus

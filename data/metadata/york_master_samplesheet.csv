@@ -1,0 +1,440 @@
+code,original_code,genus,species,binomial,locality,region1,region2,latitude,longitude,extracted,radseq,wgs,conc_1,vol_1,conc_2,vol_2,conc_3,vol_3,total_dna,next_step,plate_position,aliquot_amount,aliquot_notes,old_id,eggsac,spider_host,date_collected,notes
+SB5,,Latrodectus,geometricus,Latrodectus geometricus,Sede Boqer,Israel,Israel,30.853,34.789,yes,yes,no,,,,,,,,,,,,,,,,
+SB6,,Latrodectus,geometricus,Latrodectus geometricus,Sede Boqer,Israel,Israel,30.853,34.789,yes,yes,no,,,,,,,,,,,,,,,,
+SB8,,Latrodectus,geometricus,Latrodectus geometricus,Sede Boqer,Israel,Israel,30.853,34.789,yes,yes,no,,,,,,,,,,,,,,,,
+SB17,,Latrodectus,geometricus,Latrodectus geometricus,Sede Boqer,Israel,Israel,30.853,34.789,yes,yes,no,,,,,,,,,,,,,,,,
+SB18,,Latrodectus,geometricus,Latrodectus geometricus,Sede Boqer,Israel,Israel,30.853,34.789,yes,yes,no,,,,,,,,,,,,,,,,
+SB21,,Latrodectus,geometricus,Latrodectus geometricus,Sede Boqer,Israel,Israel,30.853,34.789,yes,yes,no,,,,,,,,,,,,,,,,
+SB22,,Latrodectus,geometricus,Latrodectus geometricus,Sede Boqer,Israel,Israel,30.853,34.789,yes,yes,no,,,,,,,,,,,,,,,,
+SB23,,Latrodectus,geometricus,Latrodectus geometricus,Sede Boqer,Israel,Israel,30.853,34.789,yes,yes,no,,,,,,,,,,,,,,,,
+Y1,,Latrodectus,geometricus,Latrodectus geometricus,Yeruham,Israel,Israel,30.984165,34.931113,yes,yes,no,,,,,,,,,,,,,,,,
+Y2,,Latrodectus,geometricus,Latrodectus geometricus,Yeruham,Israel,Israel,30.984165,34.931113,yes,yes,no,,,,,,,,,,,,,,,,
+Y5,,Latrodectus,geometricus,Latrodectus geometricus,Yeruham,Israel,Israel,30.984165,34.931113,yes,yes,no,,,,,,,,,,,,,,,,
+Y6,,Latrodectus,geometricus,Latrodectus geometricus,Yeruham,Israel,Israel,30.984165,34.931113,yes,yes,no,,,,,,,,,,,,,,,,
+Y7,,Latrodectus,geometricus,Latrodectus geometricus,Yeruham,Israel,Israel,30.984165,34.931113,yes,yes,no,,,,,,,,,,,,,,,,
+Y9,,Latrodectus,geometricus,Latrodectus geometricus,Yeruham,Israel,Israel,30.984165,34.931113,yes,yes,no,,,,,,,,,,,,,,,,
+Y10,,Latrodectus,geometricus,Latrodectus geometricus,Yeruham,Israel,Israel,30.984165,34.931113,yes,yes,no,,,,,,,,,,,,,,,,
+Y11,,Latrodectus,geometricus,Latrodectus geometricus,Yeruham,Israel,Israel,30.984165,34.931113,yes,yes,no,,,,,,,,,,,,,,,,
+TA2,,Latrodectus,geometricus,Latrodectus geometricus,Tel Aviv,Israel,Israel,32.093155,34.777401,yes,yes,no,,,,,,,,,,,,,,,,
+TA3,,Latrodectus,geometricus,Latrodectus geometricus,Tel Aviv,Israel,Israel,32.093155,34.777401,yes,yes,no,,,,,,,,,,,,,,,,
+TA7,,Latrodectus,geometricus,Latrodectus geometricus,Tel Aviv,Israel,Israel,32.093155,34.777401,yes,yes,no,,,,,,,,,,,,,,,,
+TA8,,Latrodectus,geometricus,Latrodectus geometricus,Tel Aviv,Israel,Israel,32.093155,34.777401,yes,yes,no,,,,,,,,,,,,,,,,
+TA11,,Latrodectus,geometricus,Latrodectus geometricus,Tel Aviv,Israel,Israel,32.093155,34.777401,yes,yes,no,,,,,,,,,,,,,,,,
+TA14,,Latrodectus,geometricus,Latrodectus geometricus,Tel Aviv,Israel,Israel,32.093155,34.777401,yes,yes,no,,,,,,,,,,,,,,,,
+BS1,,Latrodectus,geometricus,Latrodectus geometricus,Beer Sheva,Israel,Israel,31.26788,34.800403,yes,yes,no,,,,,,,,,,,,,,,,
+BS2,,Latrodectus,geometricus,Latrodectus geometricus,Beer Sheva,Israel,Israel,31.26788,34.800403,yes,yes,no,,,,,,,,,,,,,,,,
+BS3,,Latrodectus,geometricus,Latrodectus geometricus,Beer Sheva,Israel,Israel,31.26788,34.800403,yes,yes,no,,,,,,,,,,,,,,,,
+BS4,,Latrodectus,geometricus,Latrodectus geometricus,Beer Sheva,Israel,Israel,31.26788,34.800403,yes,yes,no,,,,,,,,,,,,,,,,
+BS5,,Latrodectus,geometricus,Latrodectus geometricus,Beer Sheva,Israel,Israel,31.26788,34.800403,yes,yes,no,,,,,,,,,,,,,,,,
+BS6,,Latrodectus,geometricus,Latrodectus geometricus,Beer Sheva,Israel,Israel,31.26788,34.800403,yes,yes,no,,,,,,,,,,,,,,,,
+BS7,,Latrodectus,geometricus,Latrodectus geometricus,Beer Sheva,Israel,Israel,31.26788,34.800403,yes,yes,no,,,,,,,,,,,,,,,,
+BS9,,Latrodectus,geometricus,Latrodectus geometricus,Beer Sheva,Israel,Israel,31.26788,34.800403,yes,yes,no,,,,,,,,,,,,,,,,
+BS10,,Latrodectus,geometricus,Latrodectus geometricus,Beer Sheva,Israel,Israel,31.26788,34.800403,yes,yes,no,,,,,,,,,,,,,,,,
+BS12,,Latrodectus,geometricus,Latrodectus geometricus,Beer Sheva,Israel,Israel,31.26788,34.800403,yes,yes,no,,,,,,,,,,,,,,,,
+BS13,,Latrodectus,geometricus,Latrodectus geometricus,Beer Sheva,Israel,Israel,31.26788,34.800403,yes,yes,no,,,,,,,,,,,,,,,,
+EI1,,Latrodectus,geometricus,Latrodectus geometricus,Eilat,Israel,Israel,29.556,34.949,yes,yes,no,,,,,,,,,,,,,,,,
+EI2,,Latrodectus,geometricus,Latrodectus geometricus,Eilat,Israel,Israel,29.556,34.949,yes,yes,no,,,,,,,,,,,,,,,,
+EI3,,Latrodectus,geometricus,Latrodectus geometricus,Eilat,Israel,Israel,29.556,34.949,yes,yes,no,,,,,,,,,,,,,,,,
+EI4,,Latrodectus,geometricus,Latrodectus geometricus,Eilat,Israel,Israel,29.556,34.949,yes,yes,no,,,,,,,,,,,,,,,,
+EI5,,Latrodectus,geometricus,Latrodectus geometricus,Eilat,Israel,Israel,29.556,34.949,yes,yes,no,,,,,,,,,,,,,,,,
+EI6,,Latrodectus,geometricus,Latrodectus geometricus,Eilat,Israel,Israel,29.556,34.949,yes,yes,no,,,,,,,,,,,,,,,,
+Tivon_N,,Latrodectus,geometricus,Latrodectus geometricus,Haifa,Israel,Israel,32.726184,35.137259,yes,yes,no,,,,,,,,,,,,,,,,
+Haifa_1,,Latrodectus,geometricus,Latrodectus geometricus,Haifa,Israel,Israel,32.801114,34.996702,yes,yes,no,,,,,,,,,,,,,,,,
+HA2,,Latrodectus,geometricus,Latrodectus geometricus,Haifa,Israel,Israel,32.801114,34.996702,yes,yes,no,,,,,,,,,,,,,,,,
+HA3,,Latrodectus,geometricus,Latrodectus geometricus,Haifa,Israel,Israel,32.801114,34.996702,yes,yes,no,,,,,,,,,,,,,,,,
+HA4,,Latrodectus,geometricus,Latrodectus geometricus,Haifa,Israel,Israel,32.801114,34.996702,yes,yes,no,,,,,,,,,,,,,,,,
+HA6,,Latrodectus,geometricus,Latrodectus geometricus,Haifa,Israel,Israel,32.801114,34.996702,yes,yes,no,,,,,,,,,,,,,,,,
+TX1,,Latrodectus,geometricus,Latrodectus geometricus,Texas,Texas,Southern US,30.199,-97.718,yes,yes,no,,,,,,,,,,,,,,,,
+TX2,,Latrodectus,geometricus,Latrodectus geometricus,Texas,Texas,Southern US,30.199,-97.718,yes,yes,no,,,,,,,,,,,,,,,,
+TX3,,Latrodectus,geometricus,Latrodectus geometricus,Texas,Texas,Southern US,30.199,-97.718,yes,yes,no,,,,,,,,,,,,,,,,
+TX4,,Latrodectus,geometricus,Latrodectus geometricus,Texas,Texas,Southern US,30.199,-97.718,yes,yes,no,,,,,,,,,,,,,,,,
+TX6,,Latrodectus,geometricus,Latrodectus geometricus,Texas,Texas,Southern US,30.199,-97.718,yes,yes,no,,,,,,,,,,,,,,,,
+CA1,,Latrodectus,geometricus,Latrodectus geometricus,Los Angeles,California,West Coast US,34.104,-118.286,yes,yes,no,,,,,,,,,,,,,,,,
+CA2,,Latrodectus,geometricus,Latrodectus geometricus,Los Angeles,California,West Coast US,34.104,-118.286,yes,yes,no,,,,,,,,,,,,,,,,
+CA3,,Latrodectus,geometricus,Latrodectus geometricus,Los Angeles,California,West Coast US,34.104,-118.286,yes,yes,no,,,,,,,,,,,,,,,,
+CA4,,Latrodectus,geometricus,Latrodectus geometricus,Los Angeles,California,West Coast US,34.104,-118.286,yes,yes,no,,,,,,,,,,,,,,,,
+CA5,,Latrodectus,geometricus,Latrodectus geometricus,Los Angeles,California,West Coast US,34.104,-118.286,yes,yes,no,,,,,,,,,,,,,,,,
+CA6,,Latrodectus,geometricus,Latrodectus geometricus,Los Angeles,California,West Coast US,34.104,-118.286,yes,yes,no,,,,,,,,,,,,,,,,
+CA7,,Latrodectus,geometricus,Latrodectus geometricus,Los Angeles,California,West Coast US,34.104,-118.286,yes,yes,no,,,,,,,,,,,,,,,,
+FL1,,Latrodectus,geometricus,Latrodectus geometricus,Gainesville,Central Florida,Florida,29.645,-82.346,yes,yes,no,,,,,,,,,,,,,,,,
+FL3,,Latrodectus,geometricus,Latrodectus geometricus,Gainesville,Central Florida,Florida,29.645,-82.346,yes,yes,no,,,,,,,,,,,,,,,,
+FL4,,Latrodectus,geometricus,Latrodectus geometricus,Gainesville,Central Florida,Florida,29.645,-82.346,yes,yes,no,,,,,,,,,,,,,,,,
+FL6,,Latrodectus,geometricus,Latrodectus geometricus,Gainesville,Central Florida,Florida,29.645,-82.346,yes,yes,no,,,,,,,,,,,,,,,,
+FL7,,Latrodectus,geometricus,Latrodectus geometricus,Gainesville,Central Florida,Florida,29.645,-82.346,yes,yes,no,,,,,,,,,,,,,,,,
+FL8,,Latrodectus,geometricus,Latrodectus geometricus,Gainesville,Central Florida,Florida,29.645,-82.346,yes,yes,no,,,,,,,,,,,,,,,,
+FL11,,Latrodectus,geometricus,Latrodectus geometricus,Gainesville,Central Florida,Florida,29.645,-82.346,yes,yes,no,,,,,,,,,,,,,,,,
+FL12,,Latrodectus,geometricus,Latrodectus geometricus,Gainesville,Central Florida,Florida,29.645,-82.346,yes,yes,no,,,,,,,,,,,,,,,,
+SC1,,Latrodectus,geometricus,Latrodectus geometricus,Edisto Island,Southeastern US,Southeastern US,32.51,-80.3,yes,yes,no,,,,,,,,,,,,,,,,
+SC3,,Latrodectus,geometricus,Latrodectus geometricus,Edisto Island,Southeastern US,Southeastern US,32.51,-80.3,yes,yes,no,,,,,,,,,,,,,,,,
+SC4,,Latrodectus,geometricus,Latrodectus geometricus,Edisto Island,Southeastern US,Southeastern US,32.51,-80.3,yes,yes,no,,,,,,,,,,,,,,,,
+SC5,,Latrodectus,geometricus,Latrodectus geometricus,Edisto Island,Southeastern US,Southeastern US,32.51,-80.3,yes,yes,no,,,,,,,,,,,,,,,,
+SC7,,Latrodectus,geometricus,Latrodectus geometricus,Edisto Island,Southeastern US,Southeastern US,32.51,-80.3,yes,yes,no,,,,,,,,,,,,,,,,
+SC12,,Latrodectus,geometricus,Latrodectus geometricus,Edisto Island,Southeastern US,Southeastern US,32.51,-80.3,yes,yes,no,,,,,,,,,,,,,,,,
+CT1,,Latrodectus,geometricus,Latrodectus geometricus,Cape Town,SW South Africa,SW South Africa,-34.022,18.441,yes,yes,no,,,,,,,,,,,,,,,,
+CT2,,Latrodectus,geometricus,Latrodectus geometricus,Cape Town,SW South Africa,SW South Africa,-34.022,18.441,yes,yes,no,,,,,,,,,,,,,,,,
+CT3,,Latrodectus,geometricus,Latrodectus geometricus,Cape Town,SW South Africa,SW South Africa,-34.022,18.441,yes,yes,no,,,,,,,,,,,,,,,,
+CT4,,Latrodectus,geometricus,Latrodectus geometricus,Cape Town,SW South Africa,SW South Africa,-34.022,18.441,yes,yes,no,,,,,,,,,,,,,,,,
+CT5,,Latrodectus,geometricus,Latrodectus geometricus,Cape Town,SW South Africa,SW South Africa,-34.022,18.441,yes,yes,no,,,,,,,,,,,,,,,,
+CT6,,Latrodectus,geometricus,Latrodectus geometricus,Cape Town,SW South Africa,SW South Africa,-34.022,18.441,yes,yes,no,,,,,,,,,,,,,,,,
+CT7,,Latrodectus,geometricus,Latrodectus geometricus,Cape Town,SW South Africa,SW South Africa,-34.022,18.441,yes,yes,no,,,,,,,,,,,,,,,,
+CT8,,Latrodectus,geometricus,Latrodectus geometricus,Cape Town,SW South Africa,SW South Africa,-34.022,18.441,yes,yes,no,,,,,,,,,,,,,,,,
+CT9,,Latrodectus,geometricus,Latrodectus geometricus,Cape Town,SW South Africa,SW South Africa,-34.022,18.441,yes,yes,no,,,,,,,,,,,,,,,,
+CT10,,Latrodectus,geometricus,Latrodectus geometricus,Cape Town,SW South Africa,SW South Africa,-34.022,18.441,yes,yes,no,,,,,,,,,,,,,,,,
+CT11,,Latrodectus,geometricus,Latrodectus geometricus,Cape Town,SW South Africa,SW South Africa,-34.022,18.441,yes,yes,no,,,,,,,,,,,,,,,,
+PR1,,Latrodectus,geometricus,Latrodectus geometricus,Pretoria,NE South Africa,NE South Africa,-25.739,28.277,yes,yes,no,,,,,,,,,,,,,,,,
+PR2,,Latrodectus,geometricus,Latrodectus geometricus,Pretoria,NE South Africa,NE South Africa,-25.739,28.277,yes,yes,no,,,,,,,,,,,,,,,,
+PR3,,Latrodectus,geometricus,Latrodectus geometricus,Pretoria,NE South Africa,NE South Africa,-25.739,28.277,yes,yes,no,,,,,,,,,,,,,,,,
+PR5,,Latrodectus,geometricus,Latrodectus geometricus,Pretoria,NE South Africa,NE South Africa,-25.739,28.277,yes,yes,no,,,,,,,,,,,,,,,,
+PR6,,Latrodectus,geometricus,Latrodectus geometricus,Pretoria,NE South Africa,NE South Africa,-25.739,28.277,yes,yes,no,,,,,,,,,,,,,,,,
+PR7,,Latrodectus,geometricus,Latrodectus geometricus,Pretoria,NE South Africa,NE South Africa,-25.739,28.277,yes,yes,no,,,,,,,,,,,,,,,,
+PR8,,Latrodectus,geometricus,Latrodectus geometricus,Pretoria,NE South Africa,NE South Africa,-25.739,28.277,yes,yes,no,,,,,,,,,,,,,,,,
+PR11,,Latrodectus,geometricus,Latrodectus geometricus,Pretoria,NE South Africa,NE South Africa,-25.739,28.277,yes,yes,no,,,,,,,,,,,,,,,,
+PR12,,Latrodectus,geometricus,Latrodectus geometricus,Pretoria,NE South Africa,NE South Africa,-25.739,28.277,yes,yes,no,,,,,,,,,,,,,,,,
+JO2,,Latrodectus,geometricus,Latrodectus geometricus,Johannesburg,NE South Africa,NE South Africa,-26.143,27.995,yes,yes,no,,,,,,,,,,,,,,,,
+JO5,,Latrodectus,geometricus,Latrodectus geometricus,Johannesburg,NE South Africa,NE South Africa,-26.143,27.995,yes,yes,no,,,,,,,,,,,,,,,,
+JO7,,Latrodectus,geometricus,Latrodectus geometricus,Johannesburg,NE South Africa,NE South Africa,-26.143,27.995,yes,yes,no,,,,,,,,,,,,,,,,
+JO9,,Latrodectus,geometricus,Latrodectus geometricus,Johannesburg,NE South Africa,NE South Africa,-26.143,27.995,yes,yes,no,,,,,,,,,,,,,,,,
+JO10,,Latrodectus,geometricus,Latrodectus geometricus,Johannesburg,NE South Africa,NE South Africa,-26.143,27.995,yes,yes,no,,,,,,,,,,,,,,,,
+RK1,,Latrodectus,geometricus,Latrodectus geometricus,Riebeeck Kasteel,SW South Africa,SW South Africa,-33.347,18.87,yes,yes,no,,,,,,,,,,,,,,,,
+RK2,,Latrodectus,geometricus,Latrodectus geometricus,Riebeeck Kasteel,SW South Africa,SW South Africa,-33.347,18.87,yes,yes,no,,,,,,,,,,,,,,,,
+RK3,,Latrodectus,geometricus,Latrodectus geometricus,Riebeeck Kasteel,SW South Africa,SW South Africa,-33.347,18.87,yes,yes,no,,,,,,,,,,,,,,,,
+RK7,,Latrodectus,geometricus,Latrodectus geometricus,Riebeeck Kasteel,SW South Africa,SW South Africa,-33.347,18.87,yes,yes,no,,,,,,,,,,,,,,,,
+RK8,,Latrodectus,geometricus,Latrodectus geometricus,Riebeeck Kasteel,SW South Africa,SW South Africa,-33.347,18.87,yes,yes,no,,,,,,,,,,,,,,,,
+RK9,,Latrodectus,geometricus,Latrodectus geometricus,Riebeeck Kasteel,SW South Africa,SW South Africa,-33.347,18.87,yes,yes,no,,,,,,,,,,,,,,,,
+RK10,,Latrodectus,geometricus,Latrodectus geometricus,Riebeeck Kasteel,SW South Africa,SW South Africa,-33.347,18.87,yes,yes,no,,,,,,,,,,,,,,,,
+RK12,,Latrodectus,geometricus,Latrodectus geometricus,Riebeeck Kasteel,SW South Africa,SW South Africa,-33.347,18.87,yes,yes,no,,,,,,,,,,,,,,,,
+RK13,,Latrodectus,geometricus,Latrodectus geometricus,Riebeeck Kasteel,SW South Africa,SW South Africa,-33.347,18.87,yes,yes,no,,,,,,,,,,,,,,,,
+RK14,,Latrodectus,geometricus,Latrodectus geometricus,Riebeeck Kasteel,SW South Africa,SW South Africa,-33.347,18.87,yes,yes,no,,,,,,,,,,,,,,,,
+RK15,,Latrodectus,geometricus,Latrodectus geometricus,Riebeeck Kasteel,SW South Africa,SW South Africa,-33.347,18.87,yes,yes,no,,,,,,,,,,,,,,,,
+RK16,,Latrodectus,geometricus,Latrodectus geometricus,Riebeeck Kasteel,SW South Africa,SW South Africa,-33.347,18.87,yes,yes,no,,,,,,,,,,,,,,,,
+MO1,,Latrodectus,geometricus,Latrodectus geometricus,Modimolle,NE South Africa,NE South Africa,-24.706,28.408,yes,yes,no,,,,,,,,,,,,,,,,
+MO2,,Latrodectus,geometricus,Latrodectus geometricus,Modimolle,NE South Africa,NE South Africa,-24.706,28.408,yes,yes,no,,,,,,,,,,,,,,,,
+MO5,,Latrodectus,geometricus,Latrodectus geometricus,Modimolle,NE South Africa,NE South Africa,-24.706,28.408,yes,yes,no,,,,,,,,,,,,,,,,
+MO8,,Latrodectus,geometricus,Latrodectus geometricus,Modimolle,NE South Africa,NE South Africa,-24.706,28.408,yes,yes,no,,,,,,,,,,,,,,,,
+MO9,,Latrodectus,geometricus,Latrodectus geometricus,Modimolle,NE South Africa,NE South Africa,-24.706,28.408,yes,yes,no,,,,,,,,,,,,,,,,
+MO10,,Latrodectus,geometricus,Latrodectus geometricus,Modimolle,NE South Africa,NE South Africa,-24.706,28.408,yes,yes,no,,,,,,,,,,,,,,,,
+MO12,,Latrodectus,geometricus,Latrodectus geometricus,Modimolle,NE South Africa,NE South Africa,-24.706,28.408,yes,yes,no,,,,,,,,,,,,,,,,
+MO13,,Latrodectus,geometricus,Latrodectus geometricus,Modimolle,NE South Africa,NE South Africa,-24.706,28.408,yes,yes,no,,,,,,,,,,,,,,,,
+KI1,,Latrodectus,geometricus,Latrodectus geometricus,Kimberley,Central South Africa,Central South Africa,-28.745,24.737,yes,yes,no,,,,,,,,,,,,,,,,
+KI2,,Latrodectus,geometricus,Latrodectus geometricus,Kimberley,Central South Africa,Central South Africa,-28.745,24.737,yes,yes,no,,,,,,,,,,,,,,,,
+KI3,,Latrodectus,geometricus,Latrodectus geometricus,Kimberley,Central South Africa,Central South Africa,-28.745,24.737,yes,yes,no,,,,,,,,,,,,,,,,
+KI4,,Latrodectus,geometricus,Latrodectus geometricus,Kimberley,Central South Africa,Central South Africa,-28.745,24.737,yes,yes,no,,,,,,,,,,,,,,,,
+KI5,,Latrodectus,geometricus,Latrodectus geometricus,Kimberley,Central South Africa,Central South Africa,-28.745,24.737,yes,yes,no,,,,,,,,,,,,,,,,
+KI6,,Latrodectus,geometricus,Latrodectus geometricus,Kimberley,Central South Africa,Central South Africa,-28.745,24.737,yes,yes,no,,,,,,,,,,,,,,,,
+KI7,,Latrodectus,geometricus,Latrodectus geometricus,Kimberley,Central South Africa,Central South Africa,-28.745,24.737,yes,yes,no,,,,,,,,,,,,,,,,
+KI8,,Latrodectus,geometricus,Latrodectus geometricus,Kimberley,Central South Africa,Central South Africa,-28.745,24.737,yes,yes,no,,,,,,,,,,,,,,,,
+KI9,,Latrodectus,geometricus,Latrodectus geometricus,Kimberley,Central South Africa,Central South Africa,-28.745,24.737,yes,yes,no,,,,,,,,,,,,,,,,
+KI10,,Latrodectus,geometricus,Latrodectus geometricus,Kimberley,Central South Africa,Central South Africa,-28.745,24.737,yes,yes,no,,,,,,,,,,,,,,,,
+KI11,,Latrodectus,geometricus,Latrodectus geometricus,Kimberley,Central South Africa,Central South Africa,-28.745,24.737,yes,yes,no,,,,,,,,,,,,,,,,
+KI12,,Latrodectus,geometricus,Latrodectus geometricus,Kimberley,Central South Africa,Central South Africa,-28.745,24.737,yes,yes,no,,,,,,,,,,,,,,,,
+KI13,,Latrodectus,geometricus,Latrodectus geometricus,Kimberley,Central South Africa,Central South Africa,-28.745,24.737,yes,yes,no,,,,,,,,,,,,,,,,
+GE1,,Latrodectus,geometricus,Latrodectus geometricus,George,Southern South Africa,Southern South Africa,-33.946,22.465,yes,yes,no,,,,,,,,,,,,,,,,
+GE2,,Latrodectus,geometricus,Latrodectus geometricus,George,Southern South Africa,Southern South Africa,-33.946,22.465,yes,yes,no,,,,,,,,,,,,,,,,
+GE3,,Latrodectus,geometricus,Latrodectus geometricus,George,Southern South Africa,Southern South Africa,-33.946,22.465,yes,yes,no,,,,,,,,,,,,,,,,
+GE4,,Latrodectus,geometricus,Latrodectus geometricus,George,Southern South Africa,Southern South Africa,-33.946,22.465,yes,yes,no,,,,,,,,,,,,,,,,
+GE5,,Latrodectus,geometricus,Latrodectus geometricus,George,Southern South Africa,Southern South Africa,-33.946,22.465,yes,yes,no,,,,,,,,,,,,,,,,
+GE6,,Latrodectus,geometricus,Latrodectus geometricus,George,Southern South Africa,Southern South Africa,-33.946,22.465,yes,yes,no,,,,,,,,,,,,,,,,
+GE7,,Latrodectus,geometricus,Latrodectus geometricus,George,Southern South Africa,Southern South Africa,-33.946,22.465,yes,yes,no,,,,,,,,,,,,,,,,
+GE8,,Latrodectus,geometricus,Latrodectus geometricus,George,Southern South Africa,Southern South Africa,-33.946,22.465,yes,yes,no,,,,,,,,,,,,,,,,
+GE9,,Latrodectus,geometricus,Latrodectus geometricus,George,Southern South Africa,Southern South Africa,-33.946,22.465,yes,yes,no,,,,,,,,,,,,,,,,
+GE10,,Latrodectus,geometricus,Latrodectus geometricus,George,Southern South Africa,Southern South Africa,-33.946,22.465,yes,yes,no,,,,,,,,,,,,,,,,
+GE11,,Latrodectus,geometricus,Latrodectus geometricus,George,Southern South Africa,Southern South Africa,-33.946,22.465,yes,yes,no,,,,,,,,,,,,,,,,
+GE12,,Latrodectus,geometricus,Latrodectus geometricus,George,Southern South Africa,Southern South Africa,-33.946,22.465,yes,yes,no,,,,,,,,,,,,,,,,
+Htz1,,Latrodectus,pallidus,Latrodectus pallidus,Hatzerim pallidus,Outgroup,Outgroup,31.2588,34.703,yes,yes,no,,,,,,,,,,,,,,,,
+Htz2,,Latrodectus,pallidus,Latrodectus pallidus,Hatzerim pallidus,Outgroup,Outgroup,31.2588,34.703,yes,yes,no,,,,,,,,,,,,,,,,
+Htz3,,Latrodectus,pallidus,Latrodectus pallidus,Hatzerim pallidus,Outgroup,Outgroup,31.2588,34.703,yes,yes,no,,,,,,,,,,,,,,,,
+Htz11,,Latrodectus,pallidus,Latrodectus pallidus,Hatzerim pallidus,Outgroup,Outgroup,31.2588,34.703,yes,yes,no,,,,,,,,,,,,,,,,
+Htz19,,Latrodectus,pallidus,Latrodectus pallidus,Hatzerim pallidus,Outgroup,Outgroup,31.2588,34.703,yes,yes,no,,,,,,,,,,,,,,,,
+JPLG1,,Latrodectus,geometricus,Latrodectus geometricus,Kagoshima,Kagoshima,Japan,31.5918814,130.5629346,yes,no,no,2.08,98,,,,,203.84,,,96.15384615,Done - used all,1. L. geometricus Kagoshina Pref. Japan female,,,,Sent legs in ziplock bags with ethanol-soaked kimwipes because of ethanol shipping restrictions
+JPLG2,,Latrodectus,geometricus,Latrodectus geometricus,Kagoshima,Kagoshima,Japan,31.5934192,130.5639062,yes,yes,no,5.45,98,,,,,534.1,RAD,B1,36.69724771,Done - used all,2. L. geometricus Kagoshima Pref. Japan female,,,,Sent legs in ziplock bags with ethanol-soaked kimwipes because of ethanol shipping restrictions
+JPLG3,,Latrodectus,geometricus,Latrodectus geometricus,Kagoshima,Kagoshima,Japan,31.593,130.5638228,yes,yes,no,3.68,98,,,,,360.64,RAD,C1,54.34782609,"Done, couldn't take enough, used all",3. L. geometricus Kagoshima Pref Japan female,,,,Sent legs in ziplock bags with ethanol-soaked kimwipes because of ethanol shipping restrictions
+JPLG4,,Latrodectus,geometricus,Latrodectus geometricus,Kagoshima,Kagoshima,Japan,31.5934172,130.5639062,yes,yes,no,18.7,98,,,,,1832.6,RAD,D1,10.69518717,Done,4. L. geometricus Kagoshima Pref Japan female,,,,Sent legs in ziplock bags with ethanol-soaked kimwipes because of ethanol shipping restrictions
+JPLG5,,Latrodectus,geometricus,Latrodectus geometricus,Okinawa,Okinawa,Japan,24.0610496,125.7752349,yes,yes,no,9.84,98,,,,,964.32,RAD,E1,20.32520325,Done,5. L. geometricus Okinawa Pref Japan female,,,,Sent legs in ziplock bags with ethanol-soaked kimwipes because of ethanol shipping restrictions
+JPLG6,,Latrodectus,geometricus,Latrodectus geometricus,Kagoshima,Kagoshima,Japan,31.593306,130.563917,yes,yes,no,21.3,98,,,,,2087.4,RAD,F1,9.389671362,"Not done, too viscous",6. L. geometricus Kagoshima Pref Japan female,,,,Sent legs in ziplock bags with ethanol-soaked kimwipes because of ethanol shipping restrictions
+JPLG7,,Latrodectus,geometricus,Latrodectus geometricus,Kagoshima,Kagoshima,Japan,31.593306,130.563917,yes,yes,no,11.8,98,,,,,1156.4,RAD,G1,16.94915254,Done,7. L. geometricus Kagoshima Pref Japan female,,,,Sent legs in ziplock bags with ethanol-soaked kimwipes because of ethanol shipping restrictions
+JPLG8,,Latrodectus,geometricus,Latrodectus geometricus,Kagoshima,Kagoshima,Japan,31.593306,130.563917,yes,yes,no,9.16,98,,,,,897.68,RAD,H1,21.83406114,Done,8. L. geometricus Kagoshima Pref Japan female,,,,Sent legs in ziplock bags with ethanol-soaked kimwipes because of ethanol shipping restrictions
+JPLG9,,Latrodectus,geometricus,Latrodectus geometricus,Kagoshima,Kagoshima,Japan,31.593306,130.563917,yes,yes,no,3.89,98,,,,,381.22,RAD,A2,51.41388175,"Done, couldn't take enough, used all",9. L. geometricus Kagoshima Pref Japan female,,,,Sent legs in ziplock bags with ethanol-soaked kimwipes because of ethanol shipping restrictions
+JPLG10,,Latrodectus,geometricus,Latrodectus geometricus,Kagoshima,Kagoshima,Japan,31.593306,130.563917,yes,yes,no,5.64,98,,,,,552.72,RAD,B2,35.46099291,Done - used all,"10. L. geometricus female, Kagoshima Pref Japan",,,,Sent legs in ziplock bags with ethanol-soaked kimwipes because of ethanol shipping restrictions
+PPTLG1,,Latrodectus,geometricus,Latrodectus geometricus,Papeete,Tahiti,Tahiti,-17.537311,-149.57925,yes,yes,no,29.4,198,,,,,5821.2,RAD,C2,6.802721088,Done,,,,,Extracted spider abdomen for microbiome in Israel
+PPTLG2,,Latrodectus,geometricus,Latrodectus geometricus,Papeete,Tahiti,Tahiti,-17.537311,-149.57925,yes,yes,no,32,198,,,,,6336,RAD,D2,6.25,Done,,,,,Extracted spider abdomen for microbiome in Israel
+PPTLG3,,Latrodectus,geometricus,Latrodectus geometricus,Papeete,Tahiti,Tahiti,-17.537311,-149.57925,yes,yes,no,36.6,198,,,,,7246.8,RAD,E2,5.464480874,Done,,,,,Extracted spider abdomen for microbiome in Israel
+PPTLG4,,Latrodectus,geometricus,Latrodectus geometricus,Papeete,Tahiti,Tahiti,-17.537311,-149.57925,yes,yes,no,30,198,,,,,5940,RAD,F2,6.666666667,Done,,,,,Extracted spider abdomen for microbiome in Israel
+PPTLG5,,Latrodectus,geometricus,Latrodectus geometricus,Papeete,Tahiti,Tahiti,-17.537311,-149.57925,yes,yes,no,41.3,198,,,,,8177.4,RAD,G2,4.842615012,Done,,,,,Extracted spider abdomen for microbiome in Israel
+PPTLG6,,Latrodectus,geometricus,Latrodectus geometricus,Papeete,Tahiti,Tahiti,-17.537311,-149.57925,yes,yes,no,31.4,198,,,,,6217.2,RAD,H2,6.369426752,Done,,,,,Extracted spider abdomen for microbiome in Israel
+PPTLG7,,Latrodectus,geometricus,Latrodectus geometricus,Papeete,Tahiti,Tahiti,-17.537311,-149.57925,yes,yes,no,32.8,198,,,,,6494.4,RAD,A3,6.097560976,Done,,,,,Extracted spider abdomen for microbiome in Israel
+PPTLG8,,Latrodectus,geometricus,Latrodectus geometricus,Papeete,Tahiti,Tahiti,-17.537311,-149.57925,yes,yes,no,39.5,198,,,,,7821,RAD,B3,5.063291139,Done,,,,,Extracted spider abdomen for microbiome in Israel
+PPTLG9,,Latrodectus,geometricus,Latrodectus geometricus,Papeete,Tahiti,Tahiti,-17.537311,-149.57925,yes,no,no,42.4,198,,,,,8395.2,,,4.716981132,Done - very little left,,,,,Extracted spider abdomen for microbiome in Israel
+PPTLG10,,Latrodectus,geometricus,Latrodectus geometricus,Papeete,Tahiti,Tahiti,-17.537311,-149.57925,yes,yes,no,44.8,198,,,,,8870.4,RAD,D3,4.464285714,Done,,,,,Extracted spider abdomen for microbiome in Israel
+PUNLG1,,Latrodectus,geometricus,Latrodectus geometricus,Punaauia,Tahiti,Tahiti,-17.632756,-149.590994,yes,yes,no,37.4,198,,,,,7405.2,RAD,E3,5.347593583,Done,,,,,Extracted spider abdomen for microbiome in Israel
+PUNLG2,,Latrodectus,geometricus,Latrodectus geometricus,Punaauia,Tahiti,Tahiti,-17.632756,-149.590994,yes,yes,no,45.1,198,,,,,8929.8,RAD,F3,4.4345898,Done,,,,,Extracted spider abdomen for microbiome in Israel
+PUNLG3,,Latrodectus,geometricus,Latrodectus geometricus,Punaauia,Tahiti,Tahiti,-17.632756,-149.590994,yes,yes,no,35.9,198,,,,,7108.2,RAD,G3,5.571030641,Done,,,,,Extracted spider abdomen for microbiome in Israel
+PUNLG5,,Latrodectus,geometricus,Latrodectus geometricus,Punaauia,Tahiti,Tahiti,-17.632756,-149.590994,yes,yes,no,25.4,198,,,,,5029.2,RAD,H3,7.874015748,Done,,,,,Extracted spider abdomen for microbiome in Israel
+PUNLG6,,Latrodectus,geometricus,Latrodectus geometricus,Punaauia,Tahiti,Tahiti,-17.632756,-149.590994,yes,no,no,1.02,198,,,,,201.96,,,196.0784314,Done - used all - weird in plate after spin,,,,,Extracted spider abdomen for microbiome in Israel
+PUNLG7,,Latrodectus,geometricus,Latrodectus geometricus,Punaauia,Tahiti,Tahiti,-17.632756,-149.590994,yes,yes,no,39.6,198,,,,,7840.8,RAD,B4,5.050505051,Done,,,,,Extracted spider abdomen for microbiome in Israel
+PUNLG8,,Latrodectus,geometricus,Latrodectus geometricus,Punaauia,Tahiti,Tahiti,-17.632756,-149.590994,yes,yes,no,6.42,198,,,,,1271.16,RAD,C4,31.15264798,Done,,,,,Extracted spider abdomen for microbiome in Israel
+PUNLG9,,Latrodectus,geometricus,Latrodectus geometricus,Punaauia,Tahiti,Tahiti,-17.632756,-149.590994,yes,yes,no,33.8,198,,,,,6692.4,RAD,D4,5.917159763,Done,,,,,Extracted spider abdomen for microbiome in Israel
+PUNLG10,,Latrodectus,geometricus,Latrodectus geometricus,Punaauia,Tahiti,Tahiti,-17.632756,-149.590994,yes,yes,no,2.74,198,,,,,542.52,RAD,E4,72.99270073,Done - dirty,,,,,Extracted spider abdomen for microbiome in Israel
+PAILG1,,Latrodectus,geometricus,Latrodectus geometricus,Paihoro,Tahiti,Tahiti,-17.730086,-149.335492,yes,yes,no,36.8,198,,,,,7286.4,RAD,F4,5.434782609,Done,,,,,Extracted spider abdomen for microbiome in Israel
+PAILG2,,Latrodectus,geometricus,Latrodectus geometricus,Paihoro,Tahiti,Tahiti,-17.730086,-149.335492,yes,yes,no,49.2,198,,,,,9741.6,RAD,G4,4.06504065,Done,,,,,Extracted spider abdomen for microbiome in Israel
+PAILG3,,Latrodectus,geometricus,Latrodectus geometricus,Paihoro,Tahiti,Tahiti,-17.730086,-149.335492,yes,no,no,1.14,198,,,,,225.72,,,175.4385965,Done - dirty,,,,,Extracted spider abdomen for microbiome in Israel
+PAILG4,,Latrodectus,geometricus,Latrodectus geometricus,Paihoro,Tahiti,Tahiti,-17.730086,-149.335492,yes,yes,no,4.42,198,,,,,875.16,RAD,A5,45.24886878,Done - dirty,,,,,Extracted spider abdomen for microbiome in Israel
+PAILG5,,Latrodectus,geometricus,Latrodectus geometricus,Paihoro,Tahiti,Tahiti,-17.730086,-149.335492,yes,no,no,36.4,198,,,,,7207.2,,,5.494505495,"Done - evaporated, little left, used all",,,,,Extracted spider abdomen for microbiome in Israel
+PAILG6,,Latrodectus,geometricus,Latrodectus geometricus,Paihoro,Tahiti,Tahiti,-17.730086,-149.335492,yes,yes,no,42.1,198,,,,,8335.8,RAD,C5,4.750593824,Done,,,,,Extracted spider abdomen for microbiome in Israel
+PAILG7,,Latrodectus,geometricus,Latrodectus geometricus,Paihoro,Tahiti,Tahiti,-17.730086,-149.335492,yes,yes,no,5.72,198,,,,,1132.56,RAD,D5,34.96503497,Done,,,,,Extracted spider abdomen for microbiome in Israel
+PAILG8,,Latrodectus,geometricus,Latrodectus geometricus,Paihoro,Tahiti,Tahiti,-17.730086,-149.335492,yes,yes,no,39.8,198,,,,,7880.4,RAD,E5,5.025125628,Done,,,,,Extracted spider abdomen for microbiome in Israel
+PAILG9,,Latrodectus,geometricus,Latrodectus geometricus,Paihoro,Tahiti,Tahiti,-17.730086,-149.335492,yes,no,no,2.25,198,,,,,445.5,,,88.88888889,Done - dirty,,,,,Extracted spider abdomen for microbiome in Israel
+PAILG10,,Latrodectus,geometricus,Latrodectus geometricus,Paihoro,Tahiti,Tahiti,-17.730086,-149.335492,yes,yes,no,8.39,198,,,,,1661.22,RAD,G5,23.83790226,Done,,,,,Extracted spider abdomen for microbiome in Israel
+COLSIL1,1. Silvania CJ1,Latrodectus,geometricus,Latrodectus geometricus,Silvania,Central Colombia,Colombia,4.406641,-74.389376,yes,yes,no,3.98,98,0.525,98,,,441.49,RAD,H5,50.25125628,"Done - not enough left, used all",1. Silvania CJ1,,,,Preserved in 70% ethanol
+COLSIL2,2. Silvania CJ2,Latrodectus,geometricus,Latrodectus geometricus,Silvania,Central Colombia,Colombia,4.406641,-74.389376,yes,yes,no,2.58,98,0.692,98,0.118,198,344.02,RAD,A6,77.51937984,Skipped not enough left,2. Silvania CJ2,,,,Preserved in 70% ethanol
+COLSIL3,3. Silvania CJ3,Latrodectus,geometricus,Latrodectus geometricus,Silvania,Central Colombia,Colombia,4.406641,-74.389376,yes,yes,no,17.5,98,,,,,1715,RAD,B6,11.42857143,Done,3. Silvania CJ3,,,,Preserved in 70% ethanol
+COLSIL4,4. Silvania CJ4,Latrodectus,geometricus,Latrodectus geometricus,Silvania,Central Colombia,Colombia,4.406641,-74.389376,yes,yes,no,8.58,98,,,,,840.84,RAD,C6,23.31002331,Done,4. Silvania CJ4,,,,Preserved in 70% ethanol
+COLSIL5,5. Silvania CJ5,Latrodectus,geometricus,Latrodectus geometricus,Silvania,Central Colombia,Colombia,4.406641,-74.389376,yes,no,no,0.927,98,0.256,98,,,115.934,,,,,5. Silvania CJ5,,,,Preserved in 70% ethanol
+COLDOR8172,6. La Dorada 8172,Latrodectus,geometricus,Latrodectus geometricus,La Dorada,Central Colombia,Colombia,5.468233,-74.673206,yes,yes,no,6.82,98,,,,,668.36,RAD,D6,29.3255132,Done,6. La Dorada 8172,,,,Preserved in 70% ethanol
+COLDOR8173,7. La Dorada 8173,Latrodectus,geometricus,Latrodectus geometricus,La Dorada,Central Colombia,Colombia,5.468233,-74.673206,yes,yes,no,4.69,98,,,,,459.62,RAD,E6,42.64392324,"Done - not enough left, used all",7. La Dorada 8173,,,,Preserved in 70% ethanol
+COLDOR8174,8. La Dorada 8174,Latrodectus,geometricus,Latrodectus geometricus,La Dorada,Central Colombia,Colombia,5.468233,-74.673206,yes,yes,no,5.52,98,,,,,540.96,RAD,F6,36.23188406,Done,8. La Dorada 8174,,,,Preserved in 70% ethanol
+COLDOR8179,9. La Dorada 8179,Latrodectus,geometricus,Latrodectus geometricus,La Dorada,Central Colombia,Colombia,5.468233,-74.673206,yes,yes,no,3.84,98,,,,,376.32,RAD,G6,52.08333333,"Done - not enough left, used all",9. La Dorada 8179,,,,Preserved in 70% ethanol
+COLDOR8180,10. La Dorada 8180,Latrodectus,geometricus,Latrodectus geometricus,La Dorada,Central Colombia,Colombia,5.468233,-74.673206,yes,yes,no,7.4,98,,,,,725.2,RAD,H6,27.02702703,Done,10. La Dorada 8180,,,,Preserved in 70% ethanol
+COLPC1,11. Puerto Carreño EM1,Latrodectus,geometricus,Latrodectus geometricus,Puerto Carreño,East Colombia,East Colombia,6.191193,-67.499838,yes,yes,no,8.21,98,,,,,804.58,RAD,A7,24.36053593,Done,11. Puerto Carreño EM1,,,,Preserved in 70% ethanol
+COLPC2,12. Puerto Carreño EM2,Latrodectus,geometricus,Latrodectus geometricus,Puerto Carreño,East Colombia,East Colombia,6.191193,-67.499838,yes,yes,no,6.62,98,,,,,648.76,RAD,B7,30.21148036,Done,12. Puerto Carreño EM2,,,,Preserved in 70% ethanol
+COLPC3,13. Puerto Carreño EM3,Latrodectus,geometricus,Latrodectus geometricus,Puerto Carreño,East Colombia,East Colombia,6.191193,-67.499838,yes,yes,no,3.39,98,0.665,98,,,397.39,RAD,C7,58.99705015,"Done - not enough left, used all",13. Puerto Carreño EM3,,,,Preserved in 70% ethanol
+COLPC4,14. Puerto Carreño 499,Latrodectus,geometricus,Latrodectus geometricus,Puerto Carreño,East Colombia,East Colombia,6.191193,-67.499838,yes,yes,no,7.63,98,,,,,747.74,RAD,D7,26.21231979,Done,14. Puerto Carreño 499,,,,Preserved in 70% ethanol
+COLPC5,15. Puerto Carreño 500,Latrodectus,geometricus,Latrodectus geometricus,Puerto Carreño,East Colombia,East Colombia,6.191193,-67.499838,yes,yes,no,8.9,98,,,,,872.2,RAD,E7,22.47191011,Done,15. Puerto Carreño 500,,,,Preserved in 70% ethanol
+COLGIR1,16. Girardot 5309,Latrodectus,geometricus,Latrodectus geometricus,Girardot,Central Colombia,Colombia,4.331836,-74.806971,yes,no,no,1.57,98,,,,,153.86,,,,,16. Girardot 5309,,,,Preserved in 70% ethanol
+COLGIR2,17. Girardot 5310,Latrodectus,geometricus,Latrodectus geometricus,Girardot,Central Colombia,Colombia,4.331836,-74.806971,yes,yes,no,8.85,98,,,,,867.3,RAD,F7,22.59887006,Done,17. Girardot 5310,,,,Preserved in 70% ethanol
+COLGIR3,18. Girardot 5311,Latrodectus,geometricus,Latrodectus geometricus,Girardot,Central Colombia,Colombia,4.331836,-74.806971,yes,yes,no,28.6,98,,,,,2802.8,RAD,G7,6.993006993,Done,18. Girardot 5311,,,,Preserved in 70% ethanol
+COLGIR4,19. Girardot 5312,Latrodectus,geometricus,Latrodectus geometricus,Girardot,Central Colombia,Colombia,4.331836,-74.806971,yes,yes,no,14.9,98,,,,,1460.2,RAD,H7,13.42281879,Done,19. Girardot 5312,,,,Preserved in 70% ethanol
+COLGIR5,20. Girardot 5324,Latrodectus,geometricus,Latrodectus geometricus,Girardot,Central Colombia,Colombia,4.331836,-74.806971,yes,yes,no,15.3,98,,,,,1499.4,RAD,A8,13.07189542,Done,20. Girardot 5324,,,,Preserved in 70% ethanol
+COLPG1,21. Puerto Gaitan 5297,Latrodectus,geometricus,Latrodectus geometricus,Puerto Gaitan,Puerto Gaitan,Puerto Gaitan,4.310819,-72.085654,yes,yes,no,25,98,,,,,2450,RAD,B8,8,Done,21. Puerto Gaitan 5297,,,,Preserved in 70% ethanol
+COLPG2,22. Puerto Gaitan 5298,Latrodectus,geometricus,Latrodectus geometricus,Puerto Gaitan,Puerto Gaitan,Puerto Gaitan,4.310819,-72.085654,yes,yes,no,33.5,98,,,,,3283,RAD,C8,5.970149254,Done,22. Puerto Gaitan 5298,,,,Preserved in 70% ethanol
+COLPG3,23. Puerto Gaitan 5299,Latrodectus,geometricus,Latrodectus geometricus,Puerto Gaitan,Puerto Gaitan,Puerto Gaitan,4.310819,-72.085654,yes,yes,no,20.5,98,,,,,2009,RAD,D8,9.756097561,Done,23. Puerto Gaitan 5299,,,,Preserved in 70% ethanol
+COLPG4,24. Puerto Gaitan 5300,Latrodectus,geometricus,Latrodectus geometricus,Puerto Gaitan,Puerto Gaitan,Puerto Gaitan,4.310819,-72.085654,yes,yes,no,10.7,98,,,,,1048.6,RAD,E8,18.69158879,Done,24. Puerto Gaitan 5300,,,,Preserved in 70% ethanol
+COLTAT1,25. Tatacoa 5434,Latrodectus,geometricus,Latrodectus geometricus,Tatacoa,Central Colombia,Colombia,3.231371,-75.168809,yes,yes,no,0.114,198,0.778,198,,,176.616,RAD,F8,all from two tubes,Done - used all,25. Tatacoa 5434,,,,Preserved in 70% ethanol
+COLTAT2,26. Tatacoa 5442,Latrodectus,geometricus,Latrodectus geometricus,Tatacoa,Central Colombia,Colombia,3.231371,-75.168809,yes,no,no,0.667,98,0.115,98,0.348,198,145.54,,,,,26. Tatacoa 5442,,,,Preserved in 70% ethanol
+COLTAT3,27. Tatacoa 5464,Latrodectus,geometricus,Latrodectus geometricus,Tatacoa,Central Colombia,Colombia,3.231371,-75.168809,yes,yes,no,4.36,98,1.88,198,,,799.52,RAD,G8,45.87155963,"Done - not enough left, used all",27. Tatacoa 5464,,,,Preserved in 70% ethanol
+COLTAT4,28. Tatacoa 5470,Latrodectus,geometricus,Latrodectus geometricus,Tatacoa,Central Colombia,Colombia,3.231371,-75.168809,yes,yes,no,0.621,98,0.105,98,6.15,198,1288.848,RAD,A1,32.5203252,Done,28. Tatacoa 5470,,,,Preserved in 70% ethanol
+COLTAT5,29. Tatacoa 5471,Latrodectus,geometricus,Latrodectus geometricus,Tatacoa,Central Colombia,Colombia,3.231371,-75.168809,yes,yes,no,11,98,,,,,1078,RAD,H8,18.18181818,Done,29. Tatacoa 5471,,,,Preserved in 70% ethanol
+COLSAL1,30. Saldaña 132D,Latrodectus,geometricus,Latrodectus geometricus,Saldaña,Central Colombia,Colombia,3.93026,-75.020353,yes,yes,no,54,98,,,,,5292,RAD,A9,3.703703704,Done,30. Saldaña 132D,,,,Preserved in 70% ethanol
+COLSAL2,31. Saldaña 133D,Latrodectus,geometricus,Latrodectus geometricus,Saldaña,Central Colombia,Colombia,3.93026,-75.020353,yes,yes,no,47.5,98,,,,,4655,RAD,B9,4.210526316,Done,31. Saldaña 133D,,,,Preserved in 70% ethanol
+COLSAL3,32. Saldaña 134D,Latrodectus,geometricus,Latrodectus geometricus,Saldaña,Central Colombia,Colombia,3.93026,-75.020353,yes,yes,no,42.7,98,,,,,4184.6,RAD,C9,4.683840749,Done,32. Saldaña 134D,,,,Preserved in 70% ethanol
+COLSAL4,33. Saldaña 135D,Latrodectus,geometricus,Latrodectus geometricus,Saldaña,Central Colombia,Colombia,3.93026,-75.020353,yes,yes,no,43.3,98,,,,,4243.4,RAD,D9,4.618937644,Done,33. Saldaña 135D,,,,Preserved in 70% ethanol
+COLSAL5,34. Saldaña 136D,Latrodectus,geometricus,Latrodectus geometricus,Saldaña,Central Colombia,Colombia,3.93026,-75.020353,yes,yes,no,46,98,,,,,4508,RAD,E9,4.347826087,Done,34. Saldaña 136D,,,,Preserved in 70% ethanol
+COLNAT1,35. Natagaima E9,Latrodectus,geometricus,Latrodectus geometricus,Natagaima,Central Colombia,Colombia,3.620777,-75.099201,yes,yes,no,28.5,100,,,,,2850,RAD,F9,7.01754386,Done,35. Natagaima E9,,,,Preserved in 70% ethanol
+COLNAT2,36. Natagaima F1,Latrodectus,geometricus,Latrodectus geometricus,Natagaima,Central Colombia,Colombia,3.620777,-75.099201,yes,no,no,2.19,100,0.684,98,1.27,198,537.492,,,91.32420091,Done - used all,36. Natagaima F1,,,,Preserved in 70% ethanol
+WHFL2,WinterParkFL2,Latrodectus,geometricus,Latrodectus geometricus,Winter Park,Central Florida,Florida,28.017303,-81.711256,yes,yes,no,7.64,98,,,,,748.72,RAD,H9,26.17801047,Done,WinterParkFL2,,,,Preserved in 100% ethanol alive from lab
+WHFL4,WinterParkFL4,Latrodectus,geometricus,Latrodectus geometricus,Winter Park,Central Florida,Florida,28.017303,-81.711256,yes,yes,no,11.9,98,,,,,1166.2,RAD,A10,16.80672269,Done,WinterParkFL4,,,,Preserved in 100% ethanol alive from lab
+WHFL5,WinterParkFL5,Latrodectus,geometricus,Latrodectus geometricus,Winter Park,Central Florida,Florida,28.017303,-81.711256,yes,yes,no,9.26,98,,,,,907.48,RAD,B10,21.59827214,Done,WinterParkFL5,,,,Preserved in 100% ethanol alive from lab
+WHFL6,WinterParkFL6,Latrodectus,geometricus,Latrodectus geometricus,Winter Park,Central Florida,Florida,28.017303,-81.711256,yes,yes,no,5.51,98,,,,,539.98,RAD,C10,36.29764065,Done,WinterParkFL6,,,,Preserved in 100% ethanol alive from lab
+WHFL8,WinterParkFL8,Latrodectus,geometricus,Latrodectus geometricus,Winter Park,Central Florida,Florida,28.017303,-81.711256,yes,yes,no,12.3,98,,,,,1205.4,RAD,D10,16.2601626,Done,WinterParkFL8,,,,Preserved in 100% ethanol alive from lab
+WHFL15,WinterParkFL15,Latrodectus,geometricus,Latrodectus geometricus,Winter Park,Central Florida,Florida,28.017303,-81.711256,yes,yes,no,8.55,98,,,,,837.9,RAD,E10,23.39181287,Done,WinterParkFL15,,,,Preserved in 100% ethanol alive from lab
+CP1,Lgeo_Cyprus,Latrodectus,geometricus,Latrodectus geometricus,Paphos,Cyprus,Cyprus,34.77363,32.422721,yes,yes,no,2.81,98,2.61,98,0.784,198,686.392,RAD,F10,71.17437722,"Done - not enough left, used all",Lgeo_Cyprus,,,,"different life stage--one adult female, two juvenile females, one male, one eggsac"
+CP2,Lgeo_Cyprus,Latrodectus,geometricus,Latrodectus geometricus,Paphos,Cyprus,Cyprus,34.77363,32.422721,yes,yes,no,2.48,98,0.493,98,0.536,198,397.482,RAD,G10,80.64516129,"Done - not enough left, used all",Lgeo_Cyprus,,,,"different life stage--one adult female, two juvenile females, one male, one eggsac"
+CP3,Lgeo_Cyprus,Latrodectus,geometricus,Latrodectus geometricus,Paphos,Cyprus,Cyprus,34.77363,32.422721,yes,no,no,0.78,98,0.207,98,0.902,198,275.322,,,,,Lgeo_Cyprus,,,,"different life stage--one adult female, two juvenile females, one male, one eggsac"
+CP4,Lgeo_Cyprus,Latrodectus,geometricus,Latrodectus geometricus,Paphos,Cyprus,Cyprus,34.77363,32.422721,yes,no,no,0.327,98,,,,,32.046,,,,,Lgeo_Cyprus,,,,
+HaRoa-Lr3C-1,HaRoa-Lr3C-1,Philolema,latrodecti,Philolema latrodecti,HaRoa,Israel,Israel,30.879378,34.787732,yes,yes,no,,,,,,,,,,,,HaRoa-Lr3C-1,HaRoa-Lr3C,Latrodectus_revivensis,,
+HaRoa-Lr3C-2,HaRoa-Lr3C-2,Philolema,latrodecti,Philolema latrodecti,HaRoa,Israel,Israel,30.879378,34.787732,yes,yes,no,,,,,,,,,,,,HaRoa-Lr3C-2,HaRoa-Lr3C,Latrodectus_revivensis,,
+HaRoa-Lr3C-3,HaRoa-Lr3C-3,Philolema,latrodecti,Philolema latrodecti,HaRoa,Israel,Israel,30.879378,34.787732,yes,yes,no,,,,,,,,,,,,HaRoa-Lr3C-3,HaRoa-Lr3C,Latrodectus_revivensis,,
+HaRoa-Lt4B-1,HaRoa-Lt4B-1,Philolema,latrodecti,Philolema latrodecti,HaRoa,Israel,Israel,30.879378,34.787732,yes,yes,no,,,,,,,,,,,,HaRoa-Lt4B-1,HaRoa-Lt4B,Latrodectus_tredecimguttatus,,
+HaRoa-Lt4B-2,HaRoa-Lt4B-2,Philolema,latrodecti,Philolema latrodecti,HaRoa,Israel,Israel,30.879378,34.787732,yes,yes,no,,,,,,,,,,,,HaRoa-Lt4B-2,HaRoa-Lt4B,Latrodectus_tredecimguttatus,,
+HaRoa-Lt4B-3,HaRoa-Lt4B-3,Philolema,latrodecti,Philolema latrodecti,HaRoa,Israel,Israel,30.879378,34.787732,yes,yes,no,,,,,,,,,,,,HaRoa-Lt4B-3,HaRoa-Lt4B,Latrodectus_tredecimguttatus,,
+HR-Lt-8D-1,HR-Lt-8D-1,Philolema,latrodecti,Philolema latrodecti,HaRoa,Israel,Israel,30.879378,34.787732,yes,yes,no,,,,,,,,,,,,HR-Lt-8D-1,HR-Lt-8D,Latrodectus_tredecimguttatus,,
+HR-Lt-8D-2,HR-Lt-8D-2,Philolema,latrodecti,Philolema latrodecti,HaRoa,Israel,Israel,30.879378,34.787732,yes,yes,no,,,,,,,,,,,,HR-Lt-8D-2,HR-Lt-8D,Latrodectus_tredecimguttatus,,
+HR-Lt-8D-3,HR-Lt-8D-3,Philolema,latrodecti,Philolema latrodecti,HaRoa,Israel,Israel,30.879378,34.787732,yes,yes,no,,,,,,,,,,,,HR-Lt-8D-3,HR-Lt-8D,Latrodectus_tredecimguttatus,,
+HR-Lt3A-1,HR-Lt3A-1,Philolema,latrodecti,Philolema latrodecti,HaRoa,Israel,Israel,30.879378,34.787732,yes,yes,no,,,,,,,,,,,,HR-Lt3A-1,HR-Lt3A,Latrodectus_tredecimguttatus,,
+HR-Lt3A-2,HR-Lt3A-2,Philolema,latrodecti,Philolema latrodecti,HaRoa,Israel,Israel,30.879378,34.787732,yes,yes,no,,,,,,,,,,,,HR-Lt3A-2,HR-Lt3A,Latrodectus_tredecimguttatus,,
+HR-Lt3A-3,HR-Lt3A-3,Philolema,latrodecti,Philolema latrodecti,HaRoa,Israel,Israel,30.879378,34.787732,yes,yes,no,,,,,,,,,,,,HR-Lt3A-3,HR-Lt3A,Latrodectus_tredecimguttatus,,
+HR-Lt5C-1,HR-Lt5C-1,Philolema,latrodecti,Philolema latrodecti,HaRoa,Israel,Israel,30.879378,34.787732,yes,yes,no,,,,,,,,,,,,HR-Lt5C-1,HR-Lt5C,Latrodectus_tredecimguttatus,,
+HR-Lt5C-2,HR-Lt5C-2,Philolema,latrodecti,Philolema latrodecti,HaRoa,Israel,Israel,30.879378,34.787732,yes,yes,no,,,,,,,,,,,,HR-Lt5C-2,HR-Lt5C,Latrodectus_tredecimguttatus,,
+HR-Lt5C-3,HR-Lt5C-3,Philolema,latrodecti,Philolema latrodecti,HaRoa,Israel,Israel,30.879378,34.787732,yes,yes,no,,,,,,,,,,,,HR-Lt5C-3,HR-Lt5C,Latrodectus_tredecimguttatus,,
+HR-Lr3D-1,HR-Lr3D-1,Philolema,latrodecti,Philolema latrodecti,HaRoa,Israel,Israel,30.879378,34.787732,yes,yes,no,,,,,,,,,,,,HR-Lr3D-1,HR-Lt3D,Latrodectus_revivensis,,
+HR-Lr3D-2,HR-Lr3D-2,Philolema,latrodecti,Philolema latrodecti,HaRoa,Israel,Israel,30.879378,34.787732,yes,yes,no,,,,,,,,,,,,HR-Lr3D-2,HR-Lt3D,Latrodectus_revivensis,,
+HR-Lr3D-3,HR-Lr3D-3,Philolema,latrodecti,Philolema latrodecti,HaRoa,Israel,Israel,30.879378,34.787732,yes,yes,no,,,,,,,,,,,,HR-Lr3D-3,HR-Lt3D,Latrodectus_revivensis,,
+HR-Lp35-1,HR-Lp35-1,Philolema,latrodecti,Philolema latrodecti,HaRoa,Israel,Israel,30.879378,34.787732,yes,yes,no,,,,,,,,,,,,HR-Lp35-1,HR-Lp35,Latrodectus_pallidus,,
+HR-Lp35-2,HR-Lp35-2,Philolema,latrodecti,Philolema latrodecti,HaRoa,Israel,Israel,30.879378,34.787732,yes,yes,no,,,,,,,,,,,,HR-Lp35-2,HR-Lp35,Latrodectus_pallidus,,
+HR-Lp35-3,HR-Lp35-3,Philolema,latrodecti,Philolema latrodecti,HaRoa,Israel,Israel,30.879378,34.787732,yes,yes,no,,,,,,,,,,,,HR-Lp35-3,HR-Lp35,Latrodectus_pallidus,,
+HR-Lp29B-1,HR-Lp29B-1,Philolema,latrodecti,Philolema latrodecti,HaRoa,Israel,Israel,30.879378,34.787732,yes,yes,no,,,,,,,,,,,,HR-Lp29B-1,HR-Lp29B,Latrodectus_pallidus,,
+HR-Lp29B-2,HR-Lp29B-2,Philolema,latrodecti,Philolema latrodecti,HaRoa,Israel,Israel,30.879378,34.787732,yes,yes,no,,,,,,,,,,,,HR-Lp29B-2,HR-Lp29B,Latrodectus_pallidus,,
+HR-Lp29B-3,HR-Lp29B-3,Philolema,latrodecti,Philolema latrodecti,HaRoa,Israel,Israel,30.879378,34.787732,yes,yes,no,,,,,,,,,,,,HR-Lp29B-3,HR-Lp29B,Latrodectus_pallidus,,
+Revivim-Lp3E-1,Revivim-Lp3E-1,Philolema,latrodecti,Philolema latrodecti,Revivim,Israel,Israel,31.083026,34.685509,yes,yes,no,,,,,,,,,,,,Revivim-Lp3E-1,Revivim-Lp3E,Latrodectus_pallidus,,
+Revivim-Lp3E-2,Revivim-Lp3E-2,Philolema,latrodecti,Philolema latrodecti,Revivim,Israel,Israel,31.083026,34.685509,yes,yes,no,,,,,,,,,,,,Revivim-Lp3E-2,Revivim-Lp3E,Latrodectus_pallidus,,
+Revivim-Lp3E-3,Revivim-Lp3E-3,Philolema,latrodecti,Philolema latrodecti,Revivim,Israel,Israel,31.083026,34.685509,yes,yes,no,,,,,,,,,,,,Revivim-Lp3E-3,Revivim-Lp3E,Latrodectus_pallidus,,
+Revivim3A-1,Revivim3A-1,Philolema,latrodecti,Philolema latrodecti,Revivim,Israel,Israel,31.083026,34.685509,yes,yes,no,,,,,,,,,,,,Revivim3A-1,Revivim3A,Latrodectus_pallidus,,
+Revivim3A-2,Revivim3A-2,Philolema,latrodecti,Philolema latrodecti,Revivim,Israel,Israel,31.083026,34.685509,yes,yes,no,,,,,,,,,,,,Revivim3A-2,Revivim3A,Latrodectus_pallidus,,
+Revivim3A-3,Revivim3A-3,Philolema,latrodecti,Philolema latrodecti,Revivim,Israel,Israel,31.083026,34.685509,yes,yes,no,,,,,,,,,,,,Revivim3A-3,Revivim3A,Latrodectus_pallidus,,
+Revivim-Lt8-1,Revivim-Lt8-1,Philolema,latrodecti,Philolema latrodecti,Revivim,Israel,Israel,31.083026,34.685509,yes,yes,no,,,,,,,,,,,,Revivim-Lt8-1,Revivim-Lt8,Latrodectus_tredecimguttatus,,
+Revivim-Lt8-2,Revivim-Lt8-2,Philolema,latrodecti,Philolema latrodecti,Revivim,Israel,Israel,31.083026,34.685509,yes,yes,no,,,,,,,,,,,,Revivim-Lt8-2,Revivim-Lt8,Latrodectus_tredecimguttatus,,
+Revivim-Lt8-3,Revivim-Lt8-3,Philolema,latrodecti,Philolema latrodecti,Revivim,Israel,Israel,31.083026,34.685509,yes,yes,no,,,,,,,,,,,,Revivim-Lt8-3,Revivim-Lt8,Latrodectus_tredecimguttatus,,
+Revivim-Lt3-1,Revivim-Lt3-1,Philolema,latrodecti,Philolema latrodecti,Revivim,Israel,Israel,31.083026,34.685509,yes,yes,no,,,,,,,,,,,,Revivim-Lt3-1,Revivim-Lt3,Latrodectus_tredecimguttatus,,
+Revivim-Lt3-2,Revivim-Lt3-2,Philolema,latrodecti,Philolema latrodecti,Revivim,Israel,Israel,31.083026,34.685509,yes,yes,no,,,,,,,,,,,,Revivim-Lt3-2,Revivim-Lt3,Latrodectus_tredecimguttatus,,
+Revivim-Lt3-3,Revivim-Lt3-3,Philolema,latrodecti,Philolema latrodecti,Revivim,Israel,Israel,31.083026,34.685509,yes,yes,no,,,,,,,,,,,,Revivim-Lt3-3,Revivim-Lt3,Latrodectus_tredecimguttatus,,
+Revivim-Lt15-1,Revivim-Lt15-1,Philolema,latrodecti,Philolema latrodecti,Revivim,Israel,Israel,31.083026,34.685509,yes,yes,no,,,,,,,,,,,,Revivim-Lt15-1,Revivim-Lt15,Latrodectus_tredecimguttatus,,
+Revivim-Lt15-2,Revivim-Lt15-2,Philolema,latrodecti,Philolema latrodecti,Revivim,Israel,Israel,31.083026,34.685509,yes,yes,no,,,,,,,,,,,,Revivim-Lt15-2,Revivim-Lt15,Latrodectus_tredecimguttatus,,
+Revivim-Lt15-3,Revivim-Lt15-3,Philolema,latrodecti,Philolema latrodecti,Revivim,Israel,Israel,31.083026,34.685509,yes,yes,no,,,,,,,,,,,,Revivim-Lt15-3,Revivim-Lt15,Latrodectus_tredecimguttatus,,
+Revivim-Lt2-1,Revivim-Lt2-1,Philolema,latrodecti,Philolema latrodecti,Revivim,Israel,Israel,31.083026,34.685509,yes,yes,no,,,,,,,,,,,,Revivim-Lt2-1,Revivim-Lt2,Latrodectus_tredecimguttatus,,
+Revivim-Lt2-2,Revivim-Lt2-2,Philolema,latrodecti,Philolema latrodecti,Revivim,Israel,Israel,31.083026,34.685509,yes,yes,no,,,,,,,,,,,,Revivim-Lt2-2,Revivim-Lt2,Latrodectus_tredecimguttatus,,
+Beer-Sheva-andarta-1,Beer Sheva andarta-1,Philolema,latrodecti,Philolema latrodecti,Beer Sheva,Israel,Israel,31.266747,34.820245,yes,yes,no,,,,,,,,,,,,Beer Sheva andarta-1,Beer Sheva andarta,Latrodectus_pallidus,,
+Beer-Sheva-andarta-2,Beer Sheva andarta-2,Philolema,latrodecti,Philolema latrodecti,Beer Sheva,Israel,Israel,31.266747,34.820245,yes,yes,no,,,,,,,,,,,,Beer Sheva andarta-2,Beer Sheva andarta,Latrodectus_pallidus,,
+Beer-Sheva-andarta-3,Beer Sheva andarta-3,Philolema,latrodecti,Philolema latrodecti,Beer Sheva,Israel,Israel,31.266747,34.820245,yes,yes,no,,,,,,,,,,,,Beer Sheva andarta-3,Beer Sheva andarta,Latrodectus_pallidus,,
+Mashash-9B-1,Mashash-9B-1,Philolema,latrodecti,Philolema latrodecti,Mashash,Israel,Israel,31.0696630,34.8550718,yes,yes,no,,,,,,,,,,,,Mashash-9B-1,Mashash9B,Latrodectus_pallidus,,
+Mashash-9B-2,Mashash-9B-2,Philolema,latrodecti,Philolema latrodecti,Mashash,Israel,Israel,31.0696630,34.8550718,yes,yes,no,,,,,,,,,,,,Mashash-9B-2,Mashash9B,Latrodectus_pallidus,,
+Mashash-9B-3,Mashash-9B-3,Philolema,latrodecti,Philolema latrodecti,Mashash,Israel,Israel,31.0696630,34.8550718,yes,yes,no,,,,,,,,,,,,Mashash-9B-3,Mashash9B,Latrodectus_pallidus,,
+Yeruham-2A-1,Yeruham-2A-1,Philolema,latrodecti,Philolema latrodecti,Yeruham,Israel,Israel,30.978196,34.912441,yes,yes,no,,,,,,,,,,,,Yeruham-2A-1,Yeruham2A,Latrodectus_pallidus,,
+Yeruham-2A-2,Yeruham-2A-2,Philolema,latrodecti,Philolema latrodecti,Yeruham,Israel,Israel,30.978196,34.912441,yes,yes,no,,,,,,,,,,,,Yeruham-2A-2,Yeruham2A,Latrodectus_pallidus,,
+Yeruham-2A-3,Yeruham-2A-3,Philolema,latrodecti,Philolema latrodecti,Yeruham,Israel,Israel,30.978196,34.912441,yes,yes,no,,,,,,,,,,,,Yeruham-2A-3,Yeruham2A,Latrodectus_pallidus,,
+Shivta-8B-1,Shivta-8B-1,Philolema,latrodecti,Philolema latrodecti,Shivta,Israel,Israel,30.879491,34.626426,yes,yes,no,,,,,,,,,,,,Shivta-8B-1,Shivta-8B,Latrodectus_pallidus,,
+Shivta-8B-2,Shivta-8B-2,Philolema,latrodecti,Philolema latrodecti,Shivta,Israel,Israel,30.879491,34.626426,yes,yes,no,,,,,,,,,,,,Shivta-8B-2,Shivta-8B,Latrodectus_pallidus,,
+Shivta-8B-3,Shivta-8B-3,Philolema,latrodecti,Philolema latrodecti,Shivta,Israel,Israel,30.879491,34.626426,yes,yes,no,,,,,,,,,,,,Shivta-8B-3,Shivta-8B,Latrodectus_pallidus,,
+Shivta-4B-1,Shivta-4B-1,Philolema,latrodecti,Philolema latrodecti,Shivta,Israel,Israel,30.879491,34.626426,yes,yes,no,,,,,,,,,,,,Shivta-4B-1,Shivta-4B,Latrodectus_pallidus,,
+Shivta-4B-2,Shivta-4B-2,Philolema,latrodecti,Philolema latrodecti,Shivta,Israel,Israel,30.879491,34.626426,yes,yes,no,,,,,,,,,,,,Shivta-4B-2,Shivta-4B,Latrodectus_pallidus,,
+Shivta-4B-3,Shivta-4B-3,Philolema,latrodecti,Philolema latrodecti,Shivta,Israel,Israel,30.879491,34.626426,yes,yes,no,,,,,,,,,,,,Shivta-4B-3,Shivta-4B,Latrodectus_pallidus,,
+Shivta2022-1,Shivta2022-1,Philolema,latrodecti,Philolema latrodecti,Shivta,Israel,Israel,30.879491,34.626426,yes,yes,no,,,,,,,,,,,,Shivta2022-1,Shivta2022,Latrodectus_pallidus,,
+Shivta2022-2,Shivta2022-2,Philolema,latrodecti,Philolema latrodecti,Shivta,Israel,Israel,30.879491,34.626426,yes,yes,no,,,,,,,,,,,,Shivta2022-2,Shivta2022,Latrodectus_pallidus,,
+Shivta2022-3,Shivta2022-3,Philolema,latrodecti,Philolema latrodecti,Shivta,Israel,Israel,30.879491,34.626426,yes,yes,no,,,,,,,,,,,,Shivta2022-3,Shivta2022,Latrodectus_pallidus,,
+Yeruham-Lr2a-1,Yeruham-Lr2a-1,Philolema,latrodecti,Philolema latrodecti,Yeruham,Israel,Israel,30.978196,34.912441,yes,yes,no,,,,,,,,,,,,Yeruham-Lr2a-1,Yeruham-Lr2a,Latrodectus_revivensis,,
+Yeruham-Lr2a-2,Yeruham-Lr2a-2,Philolema,latrodecti,Philolema latrodecti,Yeruham,Israel,Israel,30.978196,34.912441,yes,yes,no,,,,,,,,,,,,Yeruham-Lr2a-2,Yeruham-Lr2a,Latrodectus_revivensis,,
+Yeruham-Lr2a-3,Yeruham-Lr2a-3,Philolema,latrodecti,Philolema latrodecti,Yeruham,Israel,Israel,30.978196,34.912441,yes,yes,no,,,,,,,,,,,,Yeruham-Lr2a-3,Yeruham-Lr2a,Latrodectus_revivensis,,
+Yeruham-Lr2d-1,Yeruham-Lr2d-1,Philolema,latrodecti,Philolema latrodecti,Yeruham,Israel,Israel,30.978196,34.912441,yes,yes,no,,,,,,,,,,,,Yeruham-Lr2d-1,Yeruham-Lr2d,Latrodectus_revivensis,,
+Yeruham-Lr2d-2,Yeruham-Lr2d-2,Philolema,latrodecti,Philolema latrodecti,Yeruham,Israel,Israel,30.978196,34.912441,yes,yes,no,,,,,,,,,,,,Yeruham-Lr2d-2,Yeruham-Lr2d,Latrodectus_revivensis,,
+Yeruham-Lr2d-3,Yeruham-Lr2d-3,Philolema,latrodecti,Philolema latrodecti,Yeruham,Israel,Israel,30.978196,34.912441,yes,yes,no,,,,,,,,,,,,Yeruham-Lr2d-3,Yeruham-Lr2d,Latrodectus_revivensis,,
+Mitzpe_Lt6a-1,Mitzpe_Lt6a-1,Philolema,latrodecti,Philolema latrodecti,Mitzpe Ramon,Israel,Israel,30.628468,34.770453,yes,yes,no,,,,,,,,,,,,Mitzpe_Lt6a-1,Mitzpe-Lt6a,Latrodectus_tredecimguttatus,,
+Mitzpe_Lt6a-2,Mitzpe_Lt6a-2,Philolema,latrodecti,Philolema latrodecti,Mitzpe Ramon,Israel,Israel,30.628468,34.770453,yes,yes,no,,,,,,,,,,,,Mitzpe_Lt6a-2,Mitzpe-Lt6a,Latrodectus_tredecimguttatus,,
+Mitzpe_Lt6a-3,Mitzpe_Lt6a-3,Philolema,latrodecti,Philolema latrodecti,Mitzpe Ramon,Israel,Israel,30.628468,34.770453,yes,yes,no,,,,,,,,,,,,Mitzpe_Lt6a-3,Mitzpe-Lt6a,Latrodectus_tredecimguttatus,,
+KadeshBarnea_Lg1,KadeshBarnea_Lg1,Philolema,latrodecti,Philolema latrodecti,Kadesh Barnea,Israel,Israel,30.903819,34.395691,yes,yes,no,,,,,,,,,,,,KadeshBarnea_Lg1,KadeshBarneaLg,Latrodectus_geometricus,,
+KadeshBarnea_Lg2,KadeshBarnea_Lg2,Philolema,latrodecti,Philolema latrodecti,Kadesh Barnea,Israel,Israel,30.903819,34.395691,yes,yes,no,,,,,,,,,,,,KadeshBarnea_Lg2,KadeshBarneaLg,Latrodectus_geometricus,,
+KadeshBarnea_Lg3,KadeshBarnea_Lg3,Philolema,latrodecti,Philolema latrodecti,Kadesh Barnea,Israel,Israel,30.903819,34.395691,yes,yes,no,,,,,,,,,,,,KadeshBarnea_Lg3,KadeshBarneaLg,Latrodectus_geometricus,,
+FL-0001-1,FL-0001-1,Philolema,latrodecti,Philolema latrodecti,Winter Haven,Central Florida,Florida,27.9966387,-81.6886635,yes,yes,no,,,,,,,,,,,,FL-0001-1,FL-0001,Latrodectus_geometricus,,
+FL-0002-1,FL-0002-1,Philolema,latrodecti,Philolema latrodecti,Winter Haven,Central Florida,Florida,27.9966387,-81.6886635,yes,yes,no,,,,,,,,,,,,FL-0002-1,FL-0002,Latrodectus_geometricus,,
+FL-0002-2,FL-0002-2,Philolema,latrodecti,Philolema latrodecti,Winter Haven,Central Florida,Florida,27.9966387,-81.6886635,yes,yes,no,,,,,,,,,,,,FL-0002-2,FL-0002,Latrodectus_geometricus,,
+FL-0002-3,FL-0002-3,Philolema,latrodecti,Philolema latrodecti,Winter Haven,Central Florida,Florida,27.9966387,-81.6886635,yes,yes,no,,,,,,,,,,,,FL-0002-3,FL-0002,Latrodectus_geometricus,,
+FL-0003-1,FL-0003-1,Philolema,latrodecti,Philolema latrodecti,Winter Haven,Central Florida,Florida,28.0140302,-81.6690085,yes,yes,no,,,,,,,,,,,,FL-0003-1,FL-0003,Latrodectus_geometricus,,
+FL-0003-3,FL-0003-3,Philolema,latrodecti,Philolema latrodecti,Winter Haven,Central Florida,Florida,28.0140302,-81.6690085,yes,yes,no,,,,,,,,,,,,FL-0003-3,FL-0003,Latrodectus_geometricus,,
+FL-0003-5,FL-0003-5,Philolema,latrodecti,Philolema latrodecti,Winter Haven,Central Florida,Florida,28.0140302,-81.6690085,yes,yes,no,,,,,,,,,,,,FL-0003-5,FL-0003,Latrodectus_geometricus,,
+FL-0004-2,FL-0004-2,Philolema,latrodecti,Philolema latrodecti,Winter Haven,Central Florida,Florida,27.9966387,-81.6886635,yes,yes,no,,,,,,,,,,,,FL-0004-2,FL-0004,Latrodectus_geometricus,,
+FL-0004-3,FL-0004-3,Philolema,latrodecti,Philolema latrodecti,Winter Haven,Central Florida,Florida,27.9966387,-81.6886635,yes,yes,no,,,,,,,,,,,,FL-0004-3,FL-0004,Latrodectus_geometricus,,
+FL-0004-4,FL-0004-4,Philolema,latrodecti,Philolema latrodecti,Winter Haven,Central Florida,Florida,27.9966387,-81.6886635,yes,yes,no,,,,,,,,,,,,FL-0004-4,FL-0004,Latrodectus_geometricus,,
+FL-0005-2,FL-0005-2,Philolema,latrodecti,Philolema latrodecti,Winter Haven,Central Florida,Florida,27.9966387,-81.6886635,yes,yes,no,,,,,,,,,,,,FL-0005-2,FL-0005,Latrodectus_geometricus,,
+FL-0005-3,FL-0005-3,Philolema,latrodecti,Philolema latrodecti,Winter Haven,Central Florida,Florida,27.9966387,-81.6886635,yes,yes,no,,,,,,,,,,,,FL-0005-3,FL-0005,Latrodectus_geometricus,,
+FL-0005-4,FL-0005-4,Philolema,latrodecti,Philolema latrodecti,Winter Haven,Central Florida,Florida,27.9966387,-81.6886635,yes,yes,no,,,,,,,,,,,,FL-0005-4,FL-0005,Latrodectus_geometricus,,
+FL-0006-2,FL-0006-2,Philolema,latrodecti,Philolema latrodecti,Port Charlotte,Central Florida,Florida,27.0305696,-82.0761773,yes,yes,no,,,,,,,,,,,,FL-0006-2,FL-0006,Latrodectus_geometricus,,
+FL-0006-3,FL-0006-3,Philolema,latrodecti,Philolema latrodecti,Port Charlotte,Central Florida,Florida,27.0305696,-82.0761773,yes,yes,no,,,,,,,,,,,,FL-0006-3,FL-0006,Latrodectus_geometricus,,
+FL-0006-4,FL-0006-4,Philolema,latrodecti,Philolema latrodecti,Port Charlotte,Central Florida,Florida,27.0305696,-82.0761773,yes,yes,no,,,,,,,,,,,,FL-0006-4,FL-0006,Latrodectus_geometricus,,
+FL-0007-1,FL-0007-1,Philolema,latrodecti,Philolema latrodecti,Port Charlotte,Central Florida,Florida,27.0305696,-82.0761773,yes,yes,no,,,,,,,,,,,,FL-0007-1,FL-0007,Latrodectus_geometricus,,
+FL-0007-2,FL-0007-2,Philolema,latrodecti,Philolema latrodecti,Port Charlotte,Central Florida,Florida,27.0305696,-82.0761773,yes,yes,no,,,,,,,,,,,,FL-0007-2,FL-0007,Latrodectus_geometricus,,
+FL-0007-4,FL-0007-4,Philolema,latrodecti,Philolema latrodecti,Port Charlotte,Central Florida,Florida,27.0305696,-82.0761773,yes,yes,no,,,,,,,,,,,,FL-0007-4,FL-0007,Latrodectus_geometricus,,
+FL-0008-2,FL-0008-2,Philolema,latrodecti,Philolema latrodecti,Winter Haven,Central Florida,Florida,27.9966387,-81.6886635,yes,yes,no,,,,,,,,,,,,FL-0008-2,FL-0008,Latrodectus_geometricus,,
+FL-0008-3,FL-0008-3,Philolema,latrodecti,Philolema latrodecti,Winter Haven,Central Florida,Florida,27.9966387,-81.6886635,yes,yes,no,,,,,,,,,,,,FL-0008-3,FL-0008,Latrodectus_geometricus,,
+FL-0009-1,FL-0009-1,Philolema,latrodecti,Philolema latrodecti,Winter Haven,Central Florida,Florida,27.9966387,-81.6886635,yes,yes,no,,,,,,,,,,,,FL-0009-1,FL-0009,Latrodectus_geometricus,,
+FL-0009-2,FL-0009-2,Philolema,latrodecti,Philolema latrodecti,Winter Haven,Central Florida,Florida,27.9966387,-81.6886635,yes,yes,no,,,,,,,,,,,,FL-0009-2,FL-0009,Latrodectus_geometricus,,
+FL-0009-3,FL-0009-3,Philolema,latrodecti,Philolema latrodecti,Winter Haven,Central Florida,Florida,27.9966387,-81.6886635,yes,yes,no,,,,,,,,,,,,FL-0009-3,FL-0009,Latrodectus_geometricus,,
+FL-0010-1,FL-0010-1,Philolema,latrodecti,Philolema latrodecti,Port Charlotte,Central Florida,Florida,27.0305696,-82.0761773,yes,yes,no,,,,,,,,,,,,FL-0010-1,FL-0010,Latrodectus_geometricus,,
+FL-0010-2,FL-0010-2,Philolema,latrodecti,Philolema latrodecti,Port Charlotte,Central Florida,Florida,27.0305696,-82.0761773,yes,yes,no,,,,,,,,,,,,FL-0010-2,FL-0010,Latrodectus_geometricus,,
+FL-0010-4,FL-0010-4,Philolema,latrodecti,Philolema latrodecti,Port Charlotte,Central Florida,Florida,27.0305696,-82.0761773,yes,yes,no,,,,,,,,,,,,FL-0010-4,FL-0010,Latrodectus_geometricus,,
+FL-0011-1,FL-0011-1,Philolema,latrodecti,Philolema latrodecti,Port Charlotte,Central Florida,Florida,27.0305696,-82.0761773,yes,yes,no,,,,,,,,,,,,FL-0011-1,FL-0011,Latrodectus_geometricus,,
+FL-0011-2,FL-0011-2,Philolema,latrodecti,Philolema latrodecti,Port Charlotte,Central Florida,Florida,27.0305696,-82.0761773,yes,yes,no,,,,,,,,,,,,FL-0011-2,FL-0011,Latrodectus_geometricus,,
+FL-0011-3,FL-0011-3,Philolema,latrodecti,Philolema latrodecti,Port Charlotte,Central Florida,Florida,27.0305696,-82.0761773,yes,yes,no,,,,,,,,,,,,FL-0011-3,FL-0011,Latrodectus_geometricus,,
+FL-0012-1,FL-0012-1,Philolema,latrodecti,Philolema latrodecti,Port Charlotte,Central Florida,Florida,27.0305696,-82.0761773,yes,yes,no,,,,,,,,,,,,FL-0012-1,FL-0012,Latrodectus_variolus,,
+FL-0012-2,FL-0012-2,Philolema,latrodecti,Philolema latrodecti,Port Charlotte,Central Florida,Florida,27.0305696,-82.0761773,yes,yes,no,,,,,,,,,,,,FL-0012-2,FL-0012,Latrodectus_variolus,,
+FL-0012-3,FL-0012-3,Philolema,latrodecti,Philolema latrodecti,Port Charlotte,Central Florida,Florida,27.0305696,-82.0761773,yes,yes,no,,,,,,,,,,,,FL-0012-3,FL-0012,Latrodectus_variolus,,
+Tahiti-S1-PPT1-1,Tahiti-S1-PPT1-1,Philolema,latrodecti,Philolema latrodecti,Papeete,Tahiti,Tahiti,-17.537362,-149.579215,yes,yes,no,,,,,,,,,,,,Tahiti-S1-PPT1-1,Tahiti-S1-PPT1,Latrodectus_geometricus,,
+Tahiti-S1-PPT1-2,Tahiti-S1-PPT1-2,Philolema,latrodecti,Philolema latrodecti,Papeete,Tahiti,Tahiti,-17.537362,-149.579215,yes,yes,no,,,,,,,,,,,,Tahiti-S1-PPT1-2,Tahiti-S1-PPT1,Latrodectus_geometricus,,
+Tahiti-S1-PPT1-4,Tahiti-S1-PPT1-4,Philolema,latrodecti,Philolema latrodecti,Papeete,Tahiti,Tahiti,-17.537362,-149.579215,yes,yes,no,,,,,,,,,,,,Tahiti-S1-PPT1-4,Tahiti-S1-PPT1,Latrodectus_geometricus,,
+Tahiti-S1-PPT2-1,Tahiti-S1-PPT2-1,Philolema,latrodecti,Philolema latrodecti,Papeete,Tahiti,Tahiti,-17.537362,-149.579215,yes,yes,no,,,,,,,,,,,,Tahiti-S1-PPT2-1,Tahiti-S1-PPT2,Latrodectus_geometricus,,
+Tahiti-S1-PPT2-3,Tahiti-S1-PPT2-3,Philolema,latrodecti,Philolema latrodecti,Papeete,Tahiti,Tahiti,-17.537362,-149.579215,yes,yes,no,,,,,,,,,,,,Tahiti-S1-PPT2-3,Tahiti-S1-PPT2,Latrodectus_geometricus,,
+Tahiti-S1-PPT2-5,Tahiti-S1-PPT2-5,Philolema,latrodecti,Philolema latrodecti,Papeete,Tahiti,Tahiti,-17.537362,-149.579215,yes,yes,no,,,,,,,,,,,,Tahiti-S1-PPT2-5,Tahiti-S1-PPT2,Latrodectus_geometricus,,
+Tahiti-S1-PPT3-1,Tahiti-S1-PPT3-1,Philolema,latrodecti,Philolema latrodecti,Papeete,Tahiti,Tahiti,-17.537362,-149.579215,yes,yes,no,,,,,,,,,,,,Tahiti-S1-PPT3-1,Tahiti-S1-PPT3,Latrodectus_geometricus,,
+Tahiti-S1-PPT3-2,Tahiti-S1-PPT3-2,Philolema,latrodecti,Philolema latrodecti,Papeete,Tahiti,Tahiti,-17.537362,-149.579215,yes,yes,no,,,,,,,,,,,,Tahiti-S1-PPT3-2,Tahiti-S1-PPT3,Latrodectus_geometricus,,
+Tahiti-S1-PPT3-3,Tahiti-S1-PPT3-3,Philolema,latrodecti,Philolema latrodecti,Papeete,Tahiti,Tahiti,-17.537362,-149.579215,yes,yes,no,,,,,,,,,,,,Tahiti-S1-PPT3-3,Tahiti-S1-PPT3,Latrodectus_geometricus,,
+Tahiti-S1-PPT4-1,Tahiti-S1-PPT4-1,Philolema,latrodecti,Philolema latrodecti,Papeete,Tahiti,Tahiti,-17.537362,-149.579215,yes,yes,no,,,,,,,,,,,,Tahiti-S1-PPT4-1,Tahiti-S1-PPT4,Latrodectus_geometricus,,
+Tahiti-S1-PPT4-2,Tahiti-S1-PPT4-2,Philolema,latrodecti,Philolema latrodecti,Papeete,Tahiti,Tahiti,-17.537362,-149.579215,yes,yes,no,,,,,,,,,,,,Tahiti-S1-PPT4-2,Tahiti-S1-PPT4,Latrodectus_geometricus,,
+Tahiti-S1-PPT4-3,Tahiti-S1-PPT4-3,Philolema,latrodecti,Philolema latrodecti,Papeete,Tahiti,Tahiti,-17.537362,-149.579215,yes,yes,no,,,,,,,,,,,,Tahiti-S1-PPT4-3,Tahiti-S1-PPT4,Latrodectus_geometricus,,
+Tahiti-S3-Pai1-4,Tahiti-S3-Pai1-4,Philolema,latrodecti,Philolema latrodecti,Paihoro,Tahiti,Tahiti,-17.730098,-149.335507,yes,yes,no,,,,,,,,,,,,Tahiti-S3-Pai1-4,Tahiti-S3-Pai1,Latrodectus_geometricus,,
+Tahiti-S3-Pai1-5,Tahiti-S3-Pai1-5,Philolema,latrodecti,Philolema latrodecti,Paihoro,Tahiti,Tahiti,-17.730098,-149.335507,yes,yes,no,,,,,,,,,,,,Tahiti-S3-Pai1-5,Tahiti-S3-Pai1,Latrodectus_geometricus,,
+Tahiti-S3-Pai1-6,Tahiti-S3-Pai1-6,Philolema,latrodecti,Philolema latrodecti,Paihoro,Tahiti,Tahiti,-17.730098,-149.335507,yes,yes,no,,,,,,,,,,,,Tahiti-S3-Pai1-6,Tahiti-S3-Pai1,Latrodectus_geometricus,,
+Tahiti-S3-Pai2-1,Tahiti-S3-Pai2-1,Philolema,latrodecti,Philolema latrodecti,Paihoro,Tahiti,Tahiti,-17.730098,-149.335507,yes,yes,no,,,,,,,,,,,,Tahiti-S3-Pai2-1,Tahiti-S3-Pai2,Latrodectus_geometricus,,
+Tahiti-S3-Pai2-2,Tahiti-S3-Pai2-2,Philolema,latrodecti,Philolema latrodecti,Paihoro,Tahiti,Tahiti,-17.730098,-149.335507,yes,yes,no,,,,,,,,,,,,Tahiti-S3-Pai2-2,Tahiti-S3-Pai2,Latrodectus_geometricus,,
+Tahiti-S3-Pai2-3,Tahiti-S3-Pai2-3,Philolema,latrodecti,Philolema latrodecti,Paihoro,Tahiti,Tahiti,-17.730098,-149.335507,yes,yes,no,,,,,,,,,,,,Tahiti-S3-Pai2-3,Tahiti-S3-Pai2,Latrodectus_geometricus,,
+Ppalan_1,Ppalan_1,Philolema,palanichamyi,Philolema palanichamyi,Bahia de Cadiz,Spain,Spain,36.690605,-6.404913,yes,yes,no,,,,,,,,,,,,Ppalan_1,Ppalan,Cyrtophora_citricola,,
+Ppalan_2,Ppalan_2,Philolema,palanichamyi,Philolema palanichamyi,Bahia de Cadiz,Spain,Spain,36.690605,-6.404913,yes,yes,no,,,,,,,,,,,,Ppalan_2,Ppalan,Cyrtophora_citricola,,
+Ppalan_3,Ppalan_3,Philolema,palanichamyi,Philolema palanichamyi,Bahia de Cadiz,Spain,Spain,36.690605,-6.404913,yes,yes,no,,,,,,,,,,,,Ppalan_3,Ppalan,Cyrtophora_citricola,,
+Ppalan_4,Ppalan_4,Philolema,palanichamyi,Philolema palanichamyi,Bahia de Cadiz,Spain,Spain,36.690605,-6.404913,yes,yes,no,,,,,,,,,,,,Ppalan_4,Ppalan,Cyrtophora_citricola,,
+Ppalan_5,Ppalan_5,Philolema,palanichamyi,Philolema palanichamyi,Bahia de Cadiz,Spain,Spain,36.690605,-6.404913,yes,yes,no,,,,,,,,,,,,Ppalan_5,Ppalan,Cyrtophora_citricola,,
+Ppalan_6,Ppalan_6,Philolema,palanichamyi,Philolema palanichamyi,Bahia de Cadiz,Spain,Spain,36.690605,-6.404913,yes,yes,no,,,,,,,,,,,,Ppalan_6,Ppalan,Cyrtophora_citricola,,
+Ppalan_7,Ppalan_7,Philolema,palanichamyi,Philolema palanichamyi,Bahia de Cadiz,Spain,Spain,36.690605,-6.404913,yes,yes,no,,,,,,,,,,,,Ppalan_7,Ppalan,Cyrtophora_citricola,,
+Ppalan_8,Ppalan_8,Philolema,palanichamyi,Philolema palanichamyi,Bahia de Cadiz,Spain,Spain,36.690605,-6.404913,yes,yes,no,,,,,,,,,,,,Ppalan_8,Ppalan,Cyrtophora_citricola,,
+Ppalan_9,Ppalan_9,Philolema,palanichamyi,Philolema palanichamyi,Bahia de Cadiz,Spain,Spain,36.690605,-6.404913,yes,yes,no,,,,,,,,,,,,Ppalan_9,Ppalan,Cyrtophora_citricola,,
+Ppalan_10,Ppalan_10,Philolema,palanichamyi,Philolema palanichamyi,Bahia de Cadiz,Spain,Spain,36.690605,-6.404913,yes,yes,no,,,,,,,,,,,,Ppalan_10,Ppalan,Cyrtophora_citricola,,
+PL-Pecan-1,WE21-5,Philolema,latrodecti,Philolema latrodecti,Pecan Park,Texas,Southern US,31.615982,-94.643139,yes,no,no,0.143,195,,,,,27.885,,,,,WE21-5,,Latrodectus_geometricus,,
+PL-Pecan-2,WE21-5,Philolema,latrodecti,Philolema latrodecti,Pecan Park,Texas,Southern US,31.615982,-94.643139,yes,no,no,0.121,195,,,,,23.595,,,,,WE21-5,,Latrodectus_geometricus,,
+PL-Pecan-3,WE21-5,Philolema,latrodecti,Philolema latrodecti,Pecan Park,Texas,Southern US,31.615982,-94.643139,yes,no,no,0.772,195,,,,,150.54,,,,,WE21-5,,Latrodectus_geometricus,,
+PL-Pecan-4,WE21-5,Philolema,latrodecti,Philolema latrodecti,Pecan Park,Texas,Southern US,31.615982,-94.643139,yes,no,no,0.123,195,,,,,23.985,,,,,WE21-5,,Latrodectus_geometricus,,
+PL-Pecan-5,WE21-5,Philolema,latrodecti,Philolema latrodecti,Pecan Park,Texas,Southern US,31.615982,-94.643139,yes,no,no,0.612,195,,,,,119.34,,,,,WE21-5,,Latrodectus_geometricus,,
+PL-Ocala1-1,,Philolema,latrodecti,Philolema latrodecti,Ocala National Forest,Central Florida,Florida,29.1837772,-81.7259464,yes,yes,no,2.53,195,0.814,140,,,607.31,RAD,H10,79.0513834,Done,,,Latrodectus_bishopi,,
+PL-Ocala1-2,,Philolema,latrodecti,Philolema latrodecti,Ocala National Forest,Central Florida,Florida,29.1837772,-81.7259464,yes,yes,no,0.977,195,0.917,140,,,318.895,RAD,A11,204.7082907,"Done - found only one tube of around 100, used all",,,Latrodectus_bishopi,,
+PL-Ocala1-3,,Philolema,latrodecti,Philolema latrodecti,Ocala National Forest,Central Florida,Florida,29.1837772,-81.7259464,yes,yes,no,2.46,195,1.62,140,,,706.5,RAD,B11,81.30081301,Done,,,Latrodectus_bishopi,,
+PL-Ocala1-4,,Philolema,latrodecti,Philolema latrodecti,Ocala National Forest,Central Florida,Florida,29.1837772,-81.7259464,yes,yes,no,2.85,195,0.874,140,,,678.11,RAD,C11,70.1754386,Done,,,Latrodectus_bishopi,,
+PL-Ocala1-5,,Philolema,latrodecti,Philolema latrodecti,Ocala National Forest,Central Florida,Florida,29.1837772,-81.7259464,yes,yes,no,3.4,195,0.211,140,,,692.54,RAD,D11,58.82352941,Done,,,Latrodectus_bishopi,,
+PL-Ocala2-1,,Philolema,latrodecti,Philolema latrodecti,Ocala National Forest,Central Florida,Florida,29.1837772,-81.7259464,yes,no,no,0.053,195,,140,,,10.335,,,,,,,Latrodectus_bishopi,,
+PL-Ocala2-2,,Philolema,latrodecti,Philolema latrodecti,Ocala National Forest,Central Florida,Florida,29.1837772,-81.7259464,yes,no,no,0.147,195,,140,,,28.665,,,,,,,Latrodectus_bishopi,,
+PL-Ocala2-3,,Philolema,latrodecti,Philolema latrodecti,Ocala National Forest,Central Florida,Florida,29.1837772,-81.7259464,yes,no,no,0.589,195,,140,,,114.855,,,,,,,Latrodectus_bishopi,,
+PL-Ocala2-4,,Philolema,latrodecti,Philolema latrodecti,Ocala National Forest,Central Florida,Florida,29.1837772,-81.7259464,yes,no,no,0.118,195,,140,,,23.01,,,,,,,Latrodectus_bishopi,,
+PL-Ocala2-5,,Philolema,latrodecti,Philolema latrodecti,Ocala National Forest,Central Florida,Florida,29.1837772,-81.7259464,yes,no,no,0.072,195,,140,,,14.04,,,,,,,Latrodectus_bishopi,,
+PL-NLeon-1,,Philolema,latrodecti,Philolema latrodecti,Nuevo Leon,Nuevo Leon,Mexico,25.858473,-100.134129,yes,no,no,0.802,195,0.145,140,,,176.69,,,all,Done - used all,,,Latrodectus_mactans,,"México, Nuevo León, Zuazua, Valle de Santa Elena, Primaria Nelson Mandela, Collector: Carlos Solis. Date 25-IX-2023"
+PL-NLeon-2,,Philolema,latrodecti,Philolema latrodecti,Nuevo Leon,Nuevo Leon,Mexico,25.858473,-100.134129,yes,yes,no,0.531,195,0.358,140,,,153.665,RAD,E11,all,Gotta bring second tube,,,Latrodectus_mactans,,"México, Nuevo León, Zuazua, Valle de Santa Elena, Primaria Nelson Mandela, Collector: Carlos Solis. Date 25-IX-2023"
+PL-NLeon-3,,Philolema,latrodecti,Philolema latrodecti,Nuevo Leon,Nuevo Leon,Mexico,25.858473,-100.134129,yes,no,no,0.653,195,0.398,140,,,183.055,,,all,Done - used all,,,Latrodectus_mactans,,"México, Nuevo León, Zuazua, Valle de Santa Elena, Primaria Nelson Mandela, Collector: Carlos Solis. Date 25-IX-2023"
+PL-NLeon-4,,Philolema,latrodecti,Philolema latrodecti,Nuevo Leon,Nuevo Leon,Mexico,25.858473,-100.134129,yes,yes,no,0.611,195,0.284,140,,,158.905,RAD,F11,all,Gotta bring second tube,,,Latrodectus_mactans,,"México, Nuevo León, Zuazua, Valle de Santa Elena, Primaria Nelson Mandela, Collector: Carlos Solis. Date 25-IX-2023"
+PL-NLeon-5,,Philolema,latrodecti,Philolema latrodecti,Nuevo Leon,Nuevo Leon,Mexico,25.858473,-100.134129,yes,no,no,0.142,195,0.052,140,,,34.97,,,,,,,Latrodectus_mactans,,"México, Nuevo León, Zuazua, Valle de Santa Elena, Primaria Nelson Mandela, Collector: Carlos Solis. Date 25-IX-2023"
+JPLG11,Tokyo1,Latrodectus,geometricus,Latrodectus geometricus,Tokyo,Tokyo Area,Japan,35.86044,139.699809,yes,no,no,0,198,,,,,0,,,,,,,,,
+JPLG12,Tokyo2,Latrodectus,geometricus,Latrodectus geometricus,Tokyo,Tokyo Area,Japan,35.86044,139.699809,yes,yes,no,3.78,198,,,,,748.44,RAD,G11,52.91005291,Done,,,,,
+JPLG13,Tokyo3,Latrodectus,geometricus,Latrodectus geometricus,Tokyo,Tokyo Area,Japan,35.86044,139.699809,yes,no,no,0,198,,,,,0,,,,,,,,,
+JPLG14,Tokyo4,Latrodectus,geometricus,Latrodectus geometricus,Tokyo,Tokyo Area,Japan,35.86044,139.699809,yes,yes,no,3.18,198,,,,,629.64,RAD,H11,62.89308176,Done,,,,,
+JPLG15,Okinawa1,Latrodectus,geometricus,Latrodectus geometricus,Okinawa,Okinawa,Japan,24.0610496,125.7752349,yes,yes,no,1.49,198,,,,,295.02,RAD,A12,134.2281879,Done,,,,,
+JPLG16,Okinawa2,Latrodectus,geometricus,Latrodectus geometricus,Okinawa,Okinawa,Japan,24.0610496,125.7752349,yes,yes,no,1.23,198,,,,,243.54,RAD,B12,162.601626,Done,,,,,
+JPLG17,Okinawa3,Latrodectus,geometricus,Latrodectus geometricus,Okinawa,Okinawa,Japan,24.0610496,125.7752349,yes,yes,no,1.71,198,,,,,338.58,RAD,C12,116.9590643,Done,,,,,
+JPLG18,Kanagawa1,Latrodectus,geometricus,Latrodectus geometricus,Kanagawa,Tokyo Area,Japan,35.411934,139.391349,yes,yes,no,3.93,198,,,,,778.14,RAD,D12,50.89058524,Done,,,,,
+JPLG19,Kanagawa2,Latrodectus,geometricus,Latrodectus geometricus,Kanagawa,Tokyo Area,Japan,35.411934,139.391349,yes,no,no,0.456,198,,,,,90.288,,,,,,,,,
+JPLG20,Kanagawa3,Latrodectus,geometricus,Latrodectus geometricus,Kanagawa,Tokyo Area,Japan,35.411934,139.391349,yes,yes,no,1.32,198,,,,,261.36,RAD,E12,151.5151515,Done,,,,,
+MuseoWasp3_504_L1_1,1196.1,Eurytoma,arachnovora,Eurytoma arachnovora,San Juan,Puerto Rico,Puerto Rico,18.384996,-66.045256,yes,no,yes,,,,,,,0,,,,,,,Latrodectus_mactans,Mar-42,Uncertain ID
+MuseoWasp4_510_L1_1,1197.1,Eurytoma,arachnovora,Eurytoma arachnovora,San Juan,Puerto Rico,Puerto Rico,18.384996,-66.045256,yes,no,yes,,,,,,,0,,,,,,,Latrodectus_mactans,Mar-42,Uncertain ID
+MuseoWasp3_507_L1_1,1198.1,Eurytoma,arachnovora,Eurytoma arachnovora,Panama,Panama,Panama,9.127165,-79.787569,yes,no,yes,,,,,,,0,,,,,,,Latrodectus_geometricus,Aug-46,Uncertain ID
+MuseoWasp4_509_L1_1,1199.1,Eurytoma,arachnovora,Eurytoma arachnovora,Panama,Panama,Panama,9.127165,-79.787569,yes,no,yes,,,,,,,0,,,,,,,Latrodectus_geometricus,Aug-46,Uncertain ID
+MuseoWasp2_506_L1_1,1200.1,Eurytoma,arachnovora,Eurytoma arachnovora,Panama,Panama,Panama,9.127165,-79.787569,yes,no,yes,,,,,,,0,,,,,,,Latrodectus_geometricus,Aug-46,Uncertain ID
+MuseoWasp4_508_L1_1,1201.1,Eurytoma,arachnovora,Eurytoma arachnovora,Panama,Panama,Panama,9.127165,-79.787569,yes,no,yes,,,,,,,0,,,,,,,Latrodectus_geometricus,Aug-46,Uncertain ID
+MuseoWasp4_502_L1_1,1202.1,Eurytoma,arachnovora,Eurytoma arachnovora,Panama,Panama,Panama,9.127165,-79.787569,yes,no,yes,,,,,,,0,,,,,,,Latrodectus_geometricus,Aug-46,Uncertain ID
+MuseoWasp1_503_L1_1,1203.1,Philolema,sp.,Philolema sp.,Pampanga,Luzon,Philippines,14.915453,120.640203,yes,no,yes,,,,,,,0,,,,,,,Latrodectus,Sep-49,
+MuseoWasp2_505_L1_1,1204.1,Philolema,sp.,Philolema sp.,Pampanga,Luzon,Philippines,14.915453,120.640203,yes,no,yes,,,,,,,0,,,,,,,Latrodectus,Sep-49,
+MuseoWasp2_504_L1_1,1205.1,Philolema,sp.,Philolema sp.,Pampanga,Luzon,Philippines,14.915453,120.640203,yes,no,yes,,,,,,,0,,,,,,,Latrodectus,Sep-49,
+MuseoWasp1_507_L1_1,1206.1,Philolema,latrodecti,Philolema latrodecti,Beer Sheva,Israel,Israel,31.266747,34.820245,yes,no,yes,,,,,,,0,,,,,,,Cyrtophora_citricola,"Sept 8, 2015",
+MuseoWasp1_506_L1_1,1207.1,Philolema,latrodecti,Philolema latrodecti,Beer Sheva,Israel,Israel,31.266747,34.820245,yes,no,yes,,,,,,,0,,,,,,,Cyrtophora_citricola,"Sept 8, 2015",
+MuseoWasp2_509_L1_1,1208.1,Philolema,latrodecti,Philolema latrodecti,Honolulu,Hawaii,Hawaii,21.321632,-157.825468,yes,no,yes,,,,,,,0,,,,,,,Latrodectus_geometricus,May-45,
+MuseoWasp3_503_L1_1,1209.1,Philolema,latrodecti,Philolema latrodecti,Honolulu,Hawaii,Hawaii,21.321632,-157.825468,yes,no,yes,,,,,,,0,,,,,,,Latrodectus_geometricus,May-45,
+MuseoWasp3_505_L1_1,1210.1,Philolema,latrodecti,Philolema latrodecti,Honolulu,Hawaii,Hawaii,21.321632,-157.825468,yes,no,yes,,,,,,,0,,,,,,,Latrodectus_geometricus,May-45,
+MuseoWasp2_502_L1_1,1211.1,Philolema,latrodecti,Philolema latrodecti,Pima County,Arizona,Southwestern US,31.977448,-111.174513,yes,no,yes,,,,,,,0,,,,,,,Latrodectus_hesperus,Sep-92,
+,1212.1,Eurytoma,arachnovora,Eurytoma arachnovora,San Juan,Puerto Rico,Puerto Rico,18.384996,-66.045256,yes,no,no,,,,,,,0,,,,,,,Latrodectus_mactans,Mar-42,Uncertain ID
+MuseoWasp4_501_L1_1,1213.1,Eurytoma,arachnovora,Eurytoma arachnovora,San Juan,Puerto Rico,Puerto Rico,18.384996,-66.045256,yes,no,yes,,,,,,,0,,,,,,,Latrodectus_mactans,Mar-42,Uncertain ID
+MuseoWasp3_501_L1_1,1214.1,Eurytoma,arachnovora,Eurytoma arachnovora,San Juan,Puerto Rico,Puerto Rico,18.384996,-66.045256,yes,no,yes,,,,,,,0,,,,,,,Latrodectus_mactans,Mar-42,Uncertain ID
+MuseoWasp1_501_L1_1,1215.1,Philolema,arnoldi,Philolema arnoldi,Bloemfontein,Central South Africa,South Africa,-29.122933,26.252553,yes,no,yes,,,,,,,0,,,,,,,Unknown,"March 19, 2017",
+MuseoWasp1_502_L1_1,1216.1,Philolema,arnoldi,Philolema arnoldi,Bloemfontein,Central South Africa,South Africa,-29.122933,26.252553,yes,no,yes,,,,,,,0,,,,,,,Unknown,"March 19, 2017",
+PL-Georgia1-1,,Philolema,latrodecti,Philolema latrodecti,Garden City,Southeastern US,Southeastern US,32.1212,-81.170175,yes,no,no,0.716,198,,,,,141.768,,,,,,,Latrodectus geometricus,,"two wasps, vials 1-5 from Mondor and Harrison, 2025"
+PL-Georgia1-2,,Philolema,latrodecti,Philolema latrodecti,Garden City,Southeastern US,Southeastern US,32.1212,-81.170175,yes,yes,no,0.92,198,,,,,182.16,RAD,C3,all,Done - used all,,,Latrodectus geometricus,,
+PL-Georgia2-1,,Philolema,latrodecti,Philolema latrodecti,Statesboro,Southeastern US,Southeastern US,32.426268,-81.780885,yes,yes,no,0.937,198,,,,,185.526,RAD,A4,all,Done - used all,,,Latrodectus geometricus,,two wasps
+PL-Georgia2-2,,Philolema,latrodecti,Philolema latrodecti,Statesboro,Southeastern US,Southeastern US,32.1212,-81.170175,yes,no,no,0.871,198,,,,,172.458,,,,,,,Latrodectus geometricus,,
+PL-Georgia3-1,,Philolema,latrodecti,Philolema latrodecti,Statesboro,Southeastern US,Southeastern US,32.449607,-81.787295,yes,yes,no,1.92,198,,,,,380.16,RAD,H4,104.1666667,Done,,,Latrodectus geometricus,,two wasps
+PL-Georgia3-2,,Philolema,latrodecti,Philolema latrodecti,Statesboro,Southeastern US,Southeastern US,32.1212,-81.170175,yes,yes,no,1.79,198,,,,,354.42,RAD,B5,111.7318436,Done,,,Latrodectus geometricus,,
+PL-Georgia4-1,,Philolema,latrodecti,Philolema latrodecti,Statesboro,Southeastern US,Southeastern US,32.451388,-81.7715,yes,yes,no,0.923,198,,,,,182.754,RAD,F5,all,Done - used all,,,Latrodectus geometricus,,two wasps
+PL-Georgia4-2,,Philolema,latrodecti,Philolema latrodecti,Statesboro,Southeastern US,Southeastern US,32.1212,-81.170175,yes,no,no,0.638,198,,,,,126.324,,,,,,,Latrodectus geometricus,,
+PL-Georgia5-1,,Philolema,latrodecti,Philolema latrodecti,Statesboro,Southeastern US,Southeastern US,32.355536,-81.854581,yes,no,no,0.564,198,,,,,111.672,,,,,,,Latrodectus mactans,,two wasps
+PL-Georgia5-2,,Philolema,latrodecti,Philolema latrodecti,Statesboro,Southeastern US,Southeastern US,32.1212,-81.170175,yes,no,no,0.85,198,,,,,168.3,,,,,,,Latrodectus mactans,,
+PL-Georgia6-1,,Philolema,latrodecti,Philolema latrodecti,Statesboro,Southeastern US,Southeastern US,32.1212,-81.170175,yes,no,no,0.811,198,,,,,160.578,,,,,,,,,~38 wasps
+PL-Georgia6-2,,Philolema,latrodecti,Philolema latrodecti,Statesboro,Southeastern US,Southeastern US,32.1212,-81.170175,yes,yes,no,1.14,198,,,,,225.72,RAD,G9,175.4385965,Done - not enough left for next one,,,,,
+LG-Georgia1,,Latrodectus,geometricus,Latrodectus geometricus,Statesboro,Southeastern US,Southeastern US,32.1212,-81.170175,no,no,no,3.95,198,,,,,782.1,RAD,F12,50.63291139,Done,,,,,LG abdomen
+LG-Georgia2,,Latrodectus,geometricus,Latrodectus geometricus,Statesboro,Southeastern US,Southeastern US,32.1212,-81.170175,no,no,no,0.706,198,,,,,139.788,,,,,,,,,LG?
+SRR37165114,,Bruchophagus,gueldenstaedtiae,Bruchophagus gueldenstaedtiae,,,,,,no,no,yes,,,,,,,0,,,,,,,,,
+SRR37165121,,Philolema,nr. braconidis,Philolema nr. braconidis,,,,,,no,no,yes,,,,,,,0,,,,,,,,,
+SRR37165125,,Bruchophagus,robiniae,Bruchophagus robiniae,,,,,,no,no,yes,,,,,,,0,,,,,,,,,
+SRR37165136,,Bruchophagus,gibbus,Bruchophagus gibbus,,,,,,no,no,yes,,,,,,,0,,,,,,,,,
+LO1,,Latrodectus,obscurior,Latrodectus obscurior,Madagascar,Madagascar,Madagascar,-21.250071,47.416751,yes,yes,no,1.33,198,0.192,98,,,282.156,RAD,G12,150.3759398,,,,,,
+LO2,,Latrodectus,obscurior,Latrodectus obscurior,Madagascar,Madagascar,Madagascar,-21.250071,47.416751,yes,yes,no,2.12,198,0.41,98,,,459.94,RAD,H12,94.33962264,,,,,,
+LO3,,Latrodectus,obscurior,Latrodectus obscurior,Madagascar,Madagascar,Madagascar,-21.250071,47.416751,yes,no,no,0.581,198,0.064,98,,,121.31,,,,,,,,,
+LO4,,Latrodectus,obscurior,Latrodectus obscurior,Madagascar,Madagascar,Madagascar,-21.250071,47.416751,yes,no,no,0.82,198,0.131,98,,,175.198,,,,,,,,,
+LO5,,Latrodectus,obscurior,Latrodectus obscurior,Madagascar,Madagascar,Madagascar,-21.250071,47.416751,yes,no,no,0.718,198,0.139,98,,,155.786,,,,,,,,,
+LO6,,Latrodectus,obscurior,Latrodectus obscurior,Madagascar,Madagascar,Madagascar,-21.250071,47.416751,yes,no,no,0.455,198,0,98,,,90.09,,,,,,,,,
+LO7,,Latrodectus,obscurior,Latrodectus obscurior,Madagascar,Madagascar,Madagascar,-21.250071,47.416751,yes,no,no,0.419,198,0.055,98,,,88.352,,,,,,,,,
